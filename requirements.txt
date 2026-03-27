@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+pymysql
+cloudscraper
+playwright
+html5lib.
