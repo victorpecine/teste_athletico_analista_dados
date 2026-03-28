@@ -3,6 +3,7 @@ DROP TABLE IF EXISTS stats_jogadores_2025;
 CREATE TABLE stats_jogadores_2025 (
 	id                              INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
 	time                            VARCHAR(100) NOT NULL,
+	campeonato_id					     INT NOT NULL,
 	nome                            VARCHAR(150) NOT NULL,
 	nacionalidade                   VARCHAR(50),
 	posicao                         VARCHAR(100) NOT NULL,
