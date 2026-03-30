@@ -1,0 +1,9 @@
+Fundo claro #f8f9fa
+Cor letras #191818
+Bordô #a00f16
+
+O dado que você tem é rico, mas requer cuidado em 3 pontos antes de qualquer cálculo:
+Primeiro, o filtro base é essencial. Dos 353 jogadores sub-21 na tabela, 137 têm zero minutos em campo. Qualquer média ou ranking sem esse filtro fica distorcida — isso é a primeira coisa a garantir.
+Segundo, a normalização pelo tempo é o coração da análise. O campo participacoes_gols_90 já existe e é a métrica mais honesta para comparar jogadores. Vitor Roque com 0,81 e um jogador com 180 minutos que fez 2 gols — sem essa normalização, o segundo pode parecer melhor.
+Terceiro, o score ponderado por posição é o que transforma tudo em um entregável defensável. O teste não pede um único número mágico — pede que você explique por que usou esses critérios. Um analista que documenta "usei 50% de participações/90 para atacantes porque esse é o indicador mais direto de geração de valor ofensivo" demonstra muito mais maturidade analítica do que um que não justifica nada.
+Quanto às limitações, Vitor Roque aparecendo em Palmeiras e Mirassol com stats idênticas é um ponto importante para documentar — mostra que você leu o dado com atenção crítica, o que o teste claramente valoriza.

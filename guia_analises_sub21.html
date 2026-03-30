@@ -1,0 +1,275 @@
+
+<style>
+* { box-sizing: border-box; }
+body { margin: 0; }
+.wrap { padding: 1rem 0; font-family: var(--font-sans); color: var(--color-text-primary); }
+.section { margin-bottom: 2rem; }
+.section-header { display: flex; align-items: center; gap: 10px; margin-bottom: 1rem; }
+.badge { display: inline-block; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 500; }
+.b-blue { background: #B5D4F4; color: #0C447C; }
+.b-amber { background: #FAC775; color: #633806; }
+.b-teal { background: #9FE1CB; color: #085041; }
+.b-coral { background: #F5C4B3; color: #712B13; }
+.b-purple { background: #CECBF6; color: #3C3489; }
+.b-green { background: #C0DD97; color: #27500A; }
+h2 { font-size: 16px; font-weight: 500; margin: 0; }
+.card { border: 1px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 1rem 1.2rem; margin-bottom: 0.75rem; }
+.card-title { font-size: 14px; font-weight: 500; margin-bottom: 0.4rem; }
+.card-why { font-size: 12px; color: var(--color-text-secondary); margin-bottom: 0.6rem; line-height: 1.5; }
+.how-label { font-size: 11px; font-weight: 500; color: var(--color-text-tertiary); text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 0.3rem; }
+.code { background: var(--color-background-secondary); border-radius: 6px; padding: 0.5rem 0.7rem; font-family: var(--font-mono); font-size: 11px; color: var(--color-text-primary); white-space: pre; overflow-x: auto; line-height: 1.5; }
+.interpret { font-size: 12px; color: var(--color-text-secondary); margin-top: 0.5rem; border-left: 2px solid var(--color-border-secondary); padding-left: 0.6rem; line-height: 1.5; }
+.tag-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 0.5rem; }
+.tag { font-size: 11px; padding: 2px 8px; border-radius: 8px; background: var(--color-background-secondary); color: var(--color-text-secondary); border: 1px solid var(--color-border-tertiary); }
+.alert { background: #FAEEDA; border-left: 3px solid #BA7517; border-radius: 0 6px 6px 0; padding: 0.5rem 0.8rem; font-size: 12px; color: #633806; margin-top: 0.5rem; }
+.divider { border: none; border-top: 1px solid var(--color-border-tertiary); margin: 1.5rem 0; }
+@media (prefers-color-scheme: dark) {
+  .b-blue { background: #0C447C; color: #B5D4F4; }
+  .b-amber { background: #633806; color: #FAC775; }
+  .b-teal { background: #085041; color: #9FE1CB; }
+  .b-coral { background: #712B13; color: #F5C4B3; }
+  .b-purple { background: #3C3489; color: #CECBF6; }
+  .b-green { background: #27500A; color: #C0DD97; }
+  .alert { background: #412402; border-left-color: #EF9F27; color: #FAC775; }
+}
+</style>
+
+<div class="wrap">
+
+<div class="section">
+  <div class="section-header">
+    <span class="badge b-blue">Etapa 0</span>
+    <h2>Filtro base — universo de análise</h2>
+  </div>
+  <div class="card">
+    <div class="card-title">Filtro: jogadores sub-21 com minutos reais em campo</div>
+    <div class="card-why"><strong>Por quê:</strong> A tabela tem 1.114 linhas, mas 165 jogadores com 0 minutos (convocados/lesionados). E 3 registros com idade = 0 (dados sem preenchimento). O universo real de análise é <strong>216 jogadores sub-21 que efetivamente jogaram</strong>. Todo cálculo deve partir desse filtro — senão médias e rankings ficam distorcidos por quem não pisou em campo.</div>
+    <div class="how-label">Condição base DAX</div>
+    <div class="code">idade &gt;= 15 &amp;&amp; idade &lt;= 21 &amp;&amp; minutos_jogados &gt; 0</div>
+    <div class="interpret">Guarda esse filtro em uma medida base. Todos os outros cálculos herdam ele. Resultado esperado: ~216 jogadores válidos.</div>
+  </div>
+</div>
+
+<hr class="divider"/>
+
+<div class="section">
+  <div class="section-header">
+    <span class="badge b-amber">Grupo 1</span>
+    <h2>Volume de participação — quem realmente jogou?</h2>
+  </div>
+
+  <div class="card">
+    <div class="card-title">1a. Percentual de jogos como titular</div>
+    <div class="tag-row"><span class="tag">qt_jogos_titular</span><span class="tag">qt_jogos</span></div>
+    <div class="card-why"><strong>Por quê:</strong> Entrar só como substituto nos últimos 5 minutos infla o contador de jogos sem representar confiança do treinador. A relação titular/total mostra quem tem espaço consolidado no time.</div>
+    <div class="how-label">Medida DAX</div>
+    <div class="code">% Titular = 
+DIVIDE(
+  SUM(fato_stats_jogadores_2025[qt_jogos_titular]),
+  SUM(fato_stats_jogadores_2025[qt_jogos])
+)</div>
+    <div class="interpret">Jogadores com &gt;60% de titularidade têm presença real. Abaixo de 30% são reservas. Combine com minutos totais para confirmar.</div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">1b. Minutos por jogo disputado</div>
+    <div class="tag-row"><span class="tag">minutos_jogados</span><span class="tag">qt_jogos</span></div>
+    <div class="card-why"><strong>Por quê:</strong> Um jogador com 10 jogos e 900 minutos (90 min/jogo) é muito mais relevante que outro com 10 jogos e 200 minutos (20 min/jogo). Esta métrica mostra intensidade de uso.</div>
+    <div class="how-label">Medida DAX</div>
+    <div class="code">Min por Jogo = 
+DIVIDE(
+  SUM(fato_stats_jogadores_2025[minutos_jogados]),
+  SUM(fato_stats_jogadores_2025[qt_jogos])
+)</div>
+    <div class="interpret">Referência: 90 min = jogo inteiro. Acima de 60 min/jogo indica jogador relevante no time. Use como critério de corte mínimo para o ranking final.</div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">1c. Threshold de minutos mínimos para o ranking</div>
+    <div class="tag-row"><span class="tag">minutos_jogados</span><span class="tag">minutos_jogados_divid_90</span></div>
+    <div class="card-why"><strong>Por quê:</strong> Vitor Roque jogou 2.117 minutos (~23 jogos completos). Um jogador com 90 minutos totais não pode estar no mesmo ranking. O campo <em>minutos_jogados_divid_90</em> já faz essa conversão — use-o para definir um piso. O critério mais usado em análise de scouts é mínimo de 5 jogos de 90 minutos (= 450 min).</div>
+    <div class="how-label">Sugestão de filtro para ranking</div>
+    <div class="code">minutos_jogados_divid_90 &gt;= 5
+-- equivale a &gt;= 450 minutos totais jogados</div>
+    <div class="interpret">Com esse corte, restam apenas jogadores com presença consistente — o ranking ganha credibilidade. Você pode ajustar para 3 ou 7 dependendo da quantidade de jogos do campeonato.</div>
+    <div class="alert">Campeonatos diferentes têm número de rodadas diferentes: Gaúcho tem menos jogos disponíveis que Paulista. Considere normalizar o corte por campeonato (ex: 40% das rodadas disputadas).</div>
+  </div>
+</div>
+
+<hr class="divider"/>
+
+<div class="section">
+  <div class="section-header">
+    <span class="badge b-teal">Grupo 2</span>
+    <h2>Impacto ofensivo — quem decide partidas?</h2>
+  </div>
+
+  <div class="card">
+    <div class="card-title">2a. Participações em gols por 90 minutos</div>
+    <div class="tag-row"><span class="tag">participacoes_gols_90</span><span class="tag">participacoes_gols</span><span class="tag">minutos_jogados_divid_90</span></div>
+    <div class="card-why"><strong>Por quê:</strong> O campo <em>participacoes_gols_90</em> já existe na tabela — é a métrica mais importante para comparar jogadores de times e campeonatos diferentes. Normaliza pelo tempo jogado, eliminando o viés de quem jogou mais partidas. Vitor Roque tem 0,81 participações/90min — ou seja, quase um gol ou assistência por jogo completo.</div>
+    <div class="how-label">Verificação / recálculo</div>
+    <div class="code">Part Gols 90 Verificado = 
+DIVIDE(
+  SUM(fato_stats_jogadores_2025[participacoes_gols]),
+  SUM(fato_stats_jogadores_2025[minutos_jogados_divid_90])
+)</div>
+    <div class="interpret">Use o campo existente para visualização. Recalcule a medida ao aplicar filtros (ex: apenas atacantes). Valor acima de 0,5 = jogador decisivo. Acima de 0,8 = destaque claro.</div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">2b. Distribuição gols vs assistências</div>
+    <div class="tag-row"><span class="tag">gols</span><span class="tag">assistencias</span><span class="tag">gols_nao_penalti</span></div>
+    <div class="card-why"><strong>Por quê:</strong> Separar gols de pênalti dos gols em jogo aberto mede melhor a capacidade técnica do jogador. O campo <em>gols_nao_penalti</em> já faz isso. Além disso, comparar gols vs assistências revela o perfil: finalizador (mais gols) ou criador (mais assistências).</div>
+    <div class="how-label">Medidas DAX</div>
+    <div class="code">Gols sem Penalti % = 
+DIVIDE(
+  SUM(fato_stats_jogadores_2025[gols_nao_penalti]),
+  SUM(fato_stats_jogadores_2025[gols])
+)
+
+Perfil Ofensivo = 
+DIVIDE(
+  SUM(fato_stats_jogadores_2025[gols]),
+  SUM(fato_stats_jogadores_2025[participacoes_gols])
+)
+-- próximo de 1 = finalizador / próximo de 0 = criador</div>
+    <div class="interpret">No ranking final, destaque jogadores cujos gols vieram majoritariamente de jogo aberto. Penálti inflado pode distorcer o score.</div>
+  </div>
+</div>
+
+<hr class="divider"/>
+
+<div class="section">
+  <div class="section-header">
+    <span class="badge b-coral">Grupo 3</span>
+    <h2>Análise por posição — contexto justo</h2>
+  </div>
+
+  <div class="card">
+    <div class="card-title">3a. Ranking segmentado por grupo posicional</div>
+    <div class="tag-row"><span class="tag">posicao</span></div>
+    <div class="card-why"><strong>Por quê:</strong> Comparar Vitor Roque (Atacante) com Kaiki (Defensor) pelo mesmo critério de gols é injusto. A tabela tem 9 valores distintos de posição com duplicatas semânticas ("Meio-campista, Atacante" e "Atacante, Meio-campista"). Agrupe em 4 categorias: Goleiro, Defensor, Meio-campista, Atacante.</div>
+    <div class="how-label">Medida DAX</div>
+    <div class="code">Grupo Posicao = 
+SWITCH(TRUE(),
+  SEARCH("Goleiro", fato_stats_jogadores_2025[posicao], 1, 0) &gt; 0, "Goleiro",
+  SEARCH("Defensor", fato_stats_jogadores_2025[posicao], 1, 0) &gt; 0, "Defensor",
+  SEARCH("Atacante", fato_stats_jogadores_2025[posicao], 1, 0) &gt; 0, "Atacante",
+  SEARCH("Meio", fato_stats_jogadores_2025[posicao], 1, 0) &gt; 0, "Meio-campista",
+  "N/I"
+)</div>
+    <div class="interpret">Crie uma coluna calculada com essa lógica. O ranking final deve ter uma seção por grupo posicional. Para Goleiros, a métrica de impacto é minutos jogados + frequência (não gols).</div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">3b. Métricas adaptadas por posição</div>
+    <div class="tag-row"><span class="tag">posicao</span><span class="tag">minutos_jogados</span><span class="tag">participacoes_gols</span></div>
+    <div class="card-why"><strong>Por quê:</strong> Defensores valorosos raramente marcam gols. Sua relevância vem de frequência de jogo, minutos, e participações (que para eles podem incluir assistências de longa distância). Para um ranking justo, o peso das métricas muda conforme a posição.</div>
+    <div class="how-label">Pesos sugeridos por posição</div>
+    <div class="code">Goleiro / Defensor:
+  - Minutos jogados: 50%
+  - Frequência (% jogos titular): 30%
+  - Participações em gols: 20%
+
+Meio-campista:
+  - Participações gols/90: 40%
+  - Minutos jogados: 35%
+  - % Titular: 25%
+
+Atacante:
+  - Participações gols/90: 50%
+  - Gols sem pênalti/90: 30%
+  - Minutos jogados: 20%</div>
+    <div class="interpret">Esses pesos são subjetivos — documente sua escolha na metodologia. O teste técnico valoriza transparência na tomada de decisão mais do que o resultado em si.</div>
+  </div>
+</div>
+
+<hr class="divider"/>
+
+<div class="section">
+  <div class="section-header">
+    <span class="badge b-purple">Grupo 4</span>
+    <h2>Score final — índice de potencial sub-21</h2>
+  </div>
+
+  <div class="card">
+    <div class="card-title">4a. Score ponderado por posição</div>
+    <div class="tag-row"><span class="tag">todas as métricas normalizadas</span></div>
+    <div class="card-why"><strong>Por quê:</strong> O teste pede "critérios objetivos de classificação". Um score único com pesos explícitos é a resposta ideal — transforma múltiplas métricas em um ranking defensável e replicável.</div>
+    <div class="how-label">Lógica do score (atacantes como exemplo)</div>
+    <div class="code">-- Normalize cada métrica entre 0 e 1 antes de ponderar
+-- (valor - min) / (max - min)
+
+Score Atacante = 
+  0.50 * [Part Gols 90 normalizado] +
+  0.30 * [Gols sem Penalti 90 normalizado] +
+  0.20 * [Min por Jogo normalizado]</div>
+    <div class="interpret">No Power BI, calcule min/max por grupo posicional usando CALCULATE + ALL. Normalize cada métrica e depois aplique os pesos. O resultado é um score de 0 a 1 por jogador. Ordene e pegue os Top 3 ou Top 5 por posição.</div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">4b. Matriz de destaque por campeonato</div>
+    <div class="tag-row"><span class="tag">nome_campeonato</span><span class="tag">score</span></div>
+    <div class="card-why"><strong>Por quê:</strong> O teste pede análise <strong>por campeonato</strong>. Uma matriz com campeonato nas linhas, posições nas colunas, e o melhor jogador (ou score médio) em cada célula mostra o panorama completo. Permite comparar qual campeonato revelou mais talentos.</div>
+    <div class="how-label">Estrutura esperada da visual</div>
+    <div class="code">| Campeonato       | Atacante     | Meia          | Defensor     |
+|------------------|-------------|---------------|-------------|
+| Paulista         | Vitor Roque | Allan         | —           |
+| Carioca          | Rayan Vitor | —             | —           |
+| Mineiro          | M. Terceros | Gustavo Paje  | Kaiki       |
+| Gaúcho           | R. Mathias  | —             | —           |
+| Paranaense       | —           | Lucas Ronier  | —           |</div>
+    <div class="interpret">Construa com uma Matriz no Power BI: campeonato no eixo linha, grupo de posição no eixo coluna, nome do jogador com maior score no valor (use TOPN + MAXX). Essa visual sozinha responde o objetivo principal do teste.</div>
+  </div>
+</div>
+
+<hr class="divider"/>
+
+<div class="section">
+  <div class="section-header">
+    <span class="badge b-green">Grupo 5</span>
+    <h2>Análise de contexto — limitações a documentar</h2>
+  </div>
+
+  <div class="card">
+    <div class="card-title">5a. Jogadores duplicados entre campeonatos</div>
+    <div class="tag-row"><span class="tag">nome</span><span class="tag">nome_campeonato</span></div>
+    <div class="card-why"><strong>Por quê:</strong> Vitor Roque aparece com stats idênticas em Palmeiras e Mirassol no Paulista — isso indica duplicata no dado fonte (provavelmente jogador cedido com stats replicadas). Documentar essa limitação demonstra rigor analítico, que é um diferencial avaliado no teste.</div>
+    <div class="how-label">Query de verificação</div>
+    <div class="code">EVALUATE 
+ADDCOLUMNS(
+  SUMMARIZECOLUMNS(
+    fato_stats_jogadores_2025[nome],
+    fato_stats_jogadores_2025[nome_campeonato],
+    "ocorrencias", COUNTROWS(fato_stats_jogadores_2025)
+  ),
+  "flag_dupla", IF([ocorrencias] > 1, "VERIFICAR", "OK")
+)
+ORDER BY [ocorrencias] DESC</div>
+    <div class="interpret">Inclua na seção de "Limitações" do seu entregável: jogadores emprestados podem ter stats replicadas na fonte. Na dúvida, deduplicar mantendo o registro com maior carga horária ou o do time principal.</div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">5b. Distribuição de minutos por campeonato (equilíbrio)</div>
+    <div class="tag-row"><span class="tag">nome_campeonato</span><span class="tag">minutos_jogados</span></div>
+    <div class="card-why"><strong>Por quê:</strong> O Gaúcho tem média de 329 min/jogador sub-21, o Mineiro tem 566 min. Isso pode ser estrutural (menos rodadas no Gaúcho) ou cultural (menor espaço para jovens). Documentar essa diferença justifica por que não se pode comparar diretamente jogadores de campeonatos diferentes sem normalização.</div>
+    <div class="how-label">Query de verificação</div>
+    <div class="code">EVALUATE 
+SUMMARIZECOLUMNS(
+  fato_stats_jogadores_2025[nome_campeonato],
+  "media_min_sub21", 
+    CALCULATE(
+      AVERAGEX(
+        FILTER(fato_stats_jogadores_2025, 
+          fato_stats_jogadores_2025[idade] &lt;= 21 
+          &amp;&amp; fato_stats_jogadores_2025[minutos_jogados] &gt; 0),
+        fato_stats_jogadores_2025[minutos_jogados]
+      )
+    )
+)</div>
+    <div class="interpret">Inclua um gráfico de barras simples com essa comparação. Mostra que você entendeu o dado além do óbvio.</div>
+  </div>
+</div>
+
+</div>
