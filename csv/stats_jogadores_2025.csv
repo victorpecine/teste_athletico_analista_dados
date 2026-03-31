@@ -1,0 +1,1170 @@
+﻿time;nome;nacionalidade;posicao;idade;qt_jogos;qt_jogos_titular;minutos_jogados;minutos_jogados_divid_90;gols;assistencias;participacoes_gols;gols_nao_penalti;gols_penalti;chutes_penalti;cartoes_amarelo;cartoes_vermelho;gols_90;assistencias_90;participacoes_gols_90;gols_nao_penalti_90;participacoes_gols_e_penalti_90
+Botafogo-SP;Victor Souza;brBRA;Goleiro;32;34;34;3,060;34.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Gabriel Risso Patrón;arARG;Defensor;29;35;32;2,717;30.2;0;1;1;0;0;0;4;0;0.00;0.03;0.03;0.00;0.03
+Botafogo-SP;Jefferson Nem;brBRA;Meio-campista;28;31;27;2,267;25.2;3;3;6;3;0;0;2;0;0.12;0.12;0.24;0.12;0.24
+Botafogo-SP;Leandro Maciel;arARG;Meio-campista;29;35;25;2,319;25.8;3;1;4;2;1;1;10;0;0.12;0.04;0.16;0.08;0.12
+Botafogo-SP;Jeferson;brBRA;Defensor;28;28;24;2,050;22.8;0;1;1;0;0;0;5;0;0.00;0.04;0.04;0.00;0.04
+Botafogo-SP;Gabriel Bispo;brBRA;Meio-campista;27;27;24;2,036;22.6;1;2;3;1;0;0;5;0;0.04;0.09;0.13;0.04;0.13
+Botafogo-SP;Ericson;brBRA;Defensor;25;26;23;2,074;23.0;1;0;1;1;0;0;4;0;0.04;0.00;0.04;0.04;0.04
+Botafogo-SP;Jonathan Cafu;brBRA;Meio-campista;33;33;23;1,861;20.7;2;2;4;2;0;0;3;0;0.10;0.10;0.19;0.10;0.19
+Botafogo-SP;Wesley;brBRA;Meio-campista;29;20;18;1,482;16.5;1;0;1;1;0;0;4;0;0.06;0.00;0.06;0.06;0.06
+Botafogo-SP;Alejo Dramisino;arARG;Meio-campista;24;28;17;1,500;16.7;1;1;2;1;0;0;5;0;0.06;0.06;0.12;0.06;0.12
+Botafogo-SP;Carlão;brBRA;Defensor;23;19;16;1,480;16.4;0;0;0;0;0;0;5;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Alexandre Jesus;brBRA;Atacante;23;17;15;1,299;14.4;4;0;4;4;0;0;0;0;0.28;0.00;0.28;0.28;0.28
+Botafogo-SP;Wallison Silva;brBRA;Defensor;23;22;13;1,266;14.1;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Rafael Milhorim;brBRA;Defensor;25;17;13;1,125;12.5;0;0;0;0;0;0;6;1;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Edson;brBRA;Defensor;33;16;12;1,024;11.4;0;0;0;0;0;0;5;2;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Marquinho;brBRA;Meio-campista;22;26;11;1,299;14.4;3;1;4;0;3;3;1;0;0.21;0.07;0.28;0.00;0.07
+Botafogo-SP;Gustavo Vilar;brBRA;Defensor;24;11;11;990;11.0;1;0;1;1;0;0;1;0;0.09;0.00;0.09;0.09;0.09
+Botafogo-SP;Gabriel Barros;brBRA;Meio-campista;23;15;11;886;9.8;0;1;1;0;0;0;2;0;0.00;0.10;0.10;0.00;0.10
+Botafogo-SP;Léo Gamalho;brBRA;Atacante;39;11;10;833;9.3;4;0;4;1;3;3;1;0;0.43;0.00;0.43;0.11;0.11
+Botafogo-SP;Sabit Abdulai;ghGHA;Meio-campista;25;16;10;821;9.1;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Botafogo-SP;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Botafogo-SP;Ronie Carrillo;ecECU;Atacante;28;23;8;856;9.5;4;1;5;4;0;0;2;0;0.42;0.11;0.53;0.42;0.53
+Botafogo-SP;Alisson Cassiano;brBRA;Defensor;30;13;8;760;8.4;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Robinho;brBRA;Meio-campista, Atacante;30;17;7;689;7.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Jean;brBRA;Defensor;30;16;6;687;7.6;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Guilherme Queiróz;brBRA;Atacante;34;14;5;565;6.3;2;1;3;2;0;0;2;0;0.32;0.16;0.48;0.32;0.48
+Botafogo-SP;Matheus Régis;brBRA;Meio-campista;25;18;4;433;4.8;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;João Carlos;brBRA;Goleiro;36;4;4;360;4.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Matheus Barbosa;brBRA;Meio-campista;30;11;4;350;3.9;1;0;1;1;0;0;2;0;0.26;0.00;0.26;0.26;0.26
+Botafogo-SP;Jhony Santiago;brBRA;Meio-campista;27;4;2;160;1.8;0;1;1;0;0;0;0;0;0.00;0.56;0.56;0.00;0.56
+Botafogo-SP;Pablo Thomaz;brBRA;Atacante;25;6;1;164;1.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Willian;brBRA;Atacante;20;5;0;86;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Tortello;brBRA;Meio-campista;20;2;0;20;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Douglas Baggio;brBRA;Atacante, Meio-campista;29;1;0;5;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo-SP;Hebert Badaró;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Botafogo-SP;Rafael Castro;brBRA;Atacante;20;0;0;;;;;;;;;;;;;;;
+Botafogo-SP;Matheus Costa;brBRA;Defensor;30;0;0;;;;;;;;;;;;;;;
+Botafogo-SP;Yuri Felipe;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Botafogo-SP;Pedro Henrique;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+Botafogo-SP;Brenno Klippel;brBRA;Goleiro;21;0;0;;;;;;;;;;;;;;;
+Botafogo-SP;Cauã Lucas;brBRA;Atacante;19;0;0;;;;;;;;;;;;;;;
+Botafogo-SP;Iago Morais;brBRA;Atacante;18;0;0;;;;;;;;;;;;;;;
+Botafogo-SP;Caíque Trindade;brBRA;Atacante;20;0;0;;;;;;;;;;;;;;;
+Corinthians;Breno;brBRA;Meio-campista;19;33;31;2,522;28.0;1;1;2;1;0;0;10;1;0.04;0.04;0.07;0.04;0.07
+Corinthians;Matheuzinho;brBRA;Defensor, Meio-campista;24;31;28;2,632;29.2;2;3;5;2;0;0;12;0;0.07;0.10;0.17;0.07;0.17
+Corinthians;Hugo Souza;brBRA;Goleiro;26;26;26;2,340;26.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Raniele;brBRA;Meio-campista, Defensor;28;30;25;2,013;22.4;2;1;3;2;0;0;7;0;0.09;0.04;0.13;0.09;0.13
+Corinthians;Gustavo Henrique;brBRA;Defensor;31;23;23;2,070;23.0;3;0;3;3;0;0;5;0;0.13;0.00;0.13;0.13;0.13
+Corinthians;Matheus Bidu;brBRA;Defensor, Meio-campista;25;26;23;1,965;21.8;0;2;2;0;0;0;7;0;0.00;0.09;0.09;0.00;0.09
+Corinthians;Yuri Alberto;brBRA;Atacante;23;26;21;2,005;22.3;10;2;12;8;2;3;3;0;0.45;0.09;0.54;0.36;0.45
+Corinthians;André Ramalho;brBRA;Defensor;32;21;20;1,780;19.8;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Fabrizio Angileri;arARG;Defensor;30;28;17;1,638;18.2;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Memphis;nlNED;Atacante;30;23;17;1,544;17.2;6;3;9;5;1;2;4;0;0.35;0.17;0.52;0.29;0.47
+Corinthians;José Andrés Martínez;veVEN;Meio-campista;30;24;17;1,396;15.5;1;1;2;1;0;0;11;2;0.06;0.06;0.13;0.06;0.13
+Corinthians;Maycon;brBRA;Meio-campista;27;25;16;1,491;16.6;3;0;3;2;1;1;4;0;0.18;0.00;0.18;0.12;0.12
+Corinthians;Cacá;brBRA;Defensor;25;18;16;1,408;15.6;2;0;2;2;0;0;4;0;0.13;0.00;0.13;0.13;0.13
+Corinthians;André Carrillo;pePER;Meio-campista;33;22;16;1,279;14.2;1;0;1;1;0;0;3;0;0.07;0.00;0.07;0.07;0.07
+Corinthians;Rodrigo Garro;arARG;Meio-campista, Atacante;27;19;15;1,410;15.7;0;3;3;0;0;0;6;0;0.00;0.19;0.19;0.00;0.19
+Corinthians;João Pedro;brBRA;Defensor;21;16;13;1,242;13.8;0;1;1;0;0;0;4;0;0.00;0.07;0.07;0.00;0.07
+Corinthians;Gui Negão;brBRA;Atacante, Meio-campista;17;22;12;945;10.5;3;1;4;3;0;0;3;0;0.29;0.10;0.38;0.29;0.38
+Corinthians;Ángel Romero;pyPAR;Atacante, Meio-campista;32;27;11;1,068;11.9;0;1;1;0;0;0;4;1;0.00;0.08;0.08;0.00;0.08
+Corinthians;Talles Magno;brBRA;Meio-campista, Atacante;22;24;10;961;10.7;1;1;2;1;0;0;2;0;0.09;0.09;0.19;0.09;0.19
+Corinthians;Félix Torres Caicedo;ecECU;Defensor;28;10;8;647;7.2;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Corinthians;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Corinthians;Charles Rigon Matos;brBRA;Meio-campista, Defensor;28;17;6;571;6.3;1;0;1;1;0;0;3;1;0.16;0.00;0.16;0.16;0.16
+Corinthians;Felipe Longo;brBRA;Goleiro;19;6;6;540;6.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Hugo;brBRA;Meio-campista, Defensor;27;10;6;457;5.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Ryan Gustavo;brBRA;Meio-campista;21;16;5;527;5.9;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Matheus Donelli;brBRA;Goleiro;22;5;5;450;5.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Vitinho;brBRA;Atacante;31;12;4;479;5.3;0;3;3;0;0;0;0;0;0.00;0.56;0.56;0.00;0.56
+Corinthians;Dieguinho;brBRA;Meio-campista, Atacante;17;13;4;451;5.0;0;1;1;0;0;0;0;0;0.00;0.20;0.20;0.00;0.20
+Corinthians;Kayke;brBRA;Meio-campista, Atacante;20;8;4;358;4.0;0;1;1;0;0;0;0;0;0.00;0.25;0.25;0.00;0.25
+Corinthians;Igor Coronado;brBRA;Meio-campista;32;6;3;342;3.8;1;0;1;1;0;0;1;0;0.26;0.00;0.26;0.26;0.26
+Corinthians;Héctor;esESP;Atacante, Meio-campista;29;9;3;246;2.7;1;0;1;1;0;0;0;0;0.37;0.00;0.37;0.37;0.37
+Corinthians;Léo Mana;brBRA;Defensor;20;4;3;225;2.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;André;brBRA;Meio-campista;18;9;1;315;3.5;2;0;2;2;0;0;0;0;0.57;0.00;0.57;0.57;0.57
+Corinthians;Alex Santana;brBRA;Meio-campista;29;3;1;106;1.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Kauê;brBRA;Goleiro;20;1;1;90;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Bahia;brBRA;Meio-campista;19;2;1;49;0.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Corinthians;Guilherme Amorim;brBRA;N/I;17;0;0;;;;;;;;;;;;;;;
+Corinthians;Gabriel Caipira;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Corinthians;Jacaré;;N/I;;0;0;;;;;;;;;;;;;;;
+Corinthians;Kauê Junior;brBRA;Atacante;15;0;0;;;;;;;;;;;;;;;
+Corinthians;Diego Palacios;ecECU;Defensor;25;0;0;;;;;;;;;;;;;;;
+Mirassol;Jemmes;brBRA;Defensor;24;37;37;3,273;36.4;2;0;2;2;0;0;3;0;0.05;0.00;0.05;0.05;0.05
+Mirassol;Danielzinho;brBRA;Meio-campista;30;37;37;3,265;36.3;0;2;2;0;0;0;4;0;0.00;0.06;0.06;0.00;0.06
+Mirassol;João Victor;brBRA;Defensor;27;34;34;3,059;34.0;2;1;3;2;0;0;8;1;0.06;0.03;0.09;0.06;0.09
+Mirassol;Reinaldo;brBRA;Defensor;35;34;33;2,892;32.1;13;6;19;7;6;7;6;0;0.40;0.19;0.59;0.22;0.40
+Mirassol;Walter;brBRA;Goleiro;37;31;31;2,790;31.0;0;0;0;0;0;0;5;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Neto Moura;brBRA;Meio-campista;28;34;31;2,428;27.0;1;0;1;1;0;0;10;0;0.04;0.00;0.04;0.04;0.04
+Mirassol;Lucas Ramon;brBRA;Defensor;30;31;30;2,604;28.9;2;3;5;2;0;0;7;0;0.07;0.10;0.17;0.07;0.17
+Mirassol;Negueba;brBRA;Atacante, Meio-campista;25;33;27;2,157;24.0;7;3;10;7;0;0;3;0;0.29;0.13;0.42;0.29;0.42
+Mirassol;Gabriel;brBRA;Meio-campista, Atacante;35;25;21;1,592;17.7;5;2;7;5;0;0;2;0;0.28;0.11;0.40;0.28;0.40
+Mirassol;Alesson;brBRA;Atacante, Meio-campista;25;26;16;1,456;16.2;6;5;11;6;0;0;1;0;0.37;0.31;0.68;0.37;0.68
+Mirassol;Edson Carioca;brBRA;Atacante, Meio-campista;27;21;16;1,168;13.0;4;2;6;4;0;0;1;0;0.31;0.15;0.46;0.31;0.46
+Mirassol;José Aldo;brBRA;Meio-campista;26;30;15;1,369;15.2;0;1;1;0;0;0;6;0;0.00;0.07;0.07;0.00;0.07
+Mirassol;Francisco da Costa;brBRA;Atacante;29;20;13;1,190;13.2;6;0;6;6;0;0;3;0;0.45;0.00;0.45;0.45;0.45
+Mirassol;Cristian Renato;brBRA;Atacante;24;32;11;1,351;15.0;5;3;8;5;0;0;2;0;0.33;0.20;0.53;0.33;0.53
+Mirassol;Daniel Borges;brBRA;Defensor;31;16;9;904;10.0;2;2;4;2;0;0;3;0;0.20;0.20;0.40;0.20;0.40
+Mirassol;Yago;brBRA;Meio-campista;29;19;8;630;7.0;0;1;1;0;0;0;3;0;0.00;0.14;0.14;0.00;0.14
+Mirassol;Alex Muralha;brBRA;Goleiro;35;7;7;630;7.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Guilherme;brBRA;Meio-campista, Atacante;33;12;6;539;6.0;2;0;2;2;0;0;2;0;0.33;0.00;0.33;0.33;0.33
+Mirassol;Iury de Castilho;brBRA;Atacante, Meio-campista;29;9;6;499;5.5;1;0;1;1;0;0;2;0;0.18;0.00;0.18;0.18;0.18
+Mirassol;Carlos Eduardo;brBRA;Atacante, Meio-campista;28;24;5;734;8.2;2;5;7;1;1;1;2;0;0.25;0.61;0.86;0.12;0.74
+Mirassol;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mirassol;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Mirassol;Felipe Jonatan;brBRA;Defensor;26;7;4;440;4.9;0;1;1;0;0;0;0;0;0.00;0.20;0.20;0.00;0.20
+Mirassol;Gabriel Knesowitsch;brBRA;Defensor;21;4;4;360;4.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Fabrício;brBRA;Meio-campista, Atacante;27;8;4;301;3.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Shaylon;brBRA;Meio-campista;27;13;3;439;4.9;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Renato Marques;brBRA;Atacante;21;7;3;261;2.9;1;0;1;1;0;0;1;0;0.34;0.00;0.34;0.34;0.34
+Mirassol;Clayson;brBRA;Meio-campista;29;6;3;256;2.8;0;1;1;0;0;0;2;0;0.00;0.35;0.35;0.00;0.35
+Mirassol;Chico;brBRA;Meio-campista;33;13;2;349;3.9;1;1;2;1;0;0;1;0;0.26;0.26;0.52;0.26;0.52
+Mirassol;Luiz Otávio;brBRA;Defensor;32;5;1;165;1.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Everton Maceió;brBRA;Meio-campista;21;6;1;147;1.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Budiga Roni;brBRA;Meio-campista;25;9;0;150;1.7;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Matheus Bianqui;brBRA;Meio-campista;27;13;0;147;1.6;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Matheus Davó;brBRA;Atacante;25;2;0;35;0.4;0;1;1;0;0;0;0;0;0.00;2.57;2.57;0.00;2.57
+Mirassol;José Vitor Silva Neves;brBRA;Meio-campista;24;2;0;25;0.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Luiz Filipe;brBRA;Atacante;23;1;0;14;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Mirassol;Gustavo Lacerda;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Mirassol;Leonan;brBRA;Defensor;24;0;0;;;;;;;;;;;;;;;
+Mirassol;Gustavo Nunes;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Mirassol;Wesley Santos;brBRA;Defensor;20;0;0;;;;;;;;;;;;;;;
+Mirassol;Da Silva;brBRA;Defensor;23;0;0;;;;;;;;;;;;;;;
+Mirassol;Thomazella;brBRA;Goleiro;34;0;0;;;;;;;;;;;;;;;
+Novorizontino;Airton Moraes;brBRA;Goleiro;30;33;33;2,970;33.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Novorizontino;Rodrigo Alves Soares;brBRA;Defensor, Meio-campista;32;30;28;2,468;27.4;0;3;3;0;0;0;1;0;0.00;0.11;0.11;0.00;0.11
+Novorizontino;Patrick;brBRA;Defensor;25;30;27;2,460;27.3;0;1;1;0;0;0;11;0;0.00;0.04;0.04;0.00;0.04
+Novorizontino;César;brBRA;Defensor;32;27;27;2,353;26.1;2;2;4;2;0;0;3;0;0.08;0.08;0.15;0.08;0.15
+Novorizontino;Matheus Frizzo;brBRA;Meio-campista, Atacante;26;34;27;2,177;24.2;5;2;7;2;3;3;4;0;0.21;0.08;0.29;0.08;0.17
+Novorizontino;Dantas;brBRA;Defensor;20;26;26;2,211;24.6;2;0;2;2;0;0;8;2;0.08;0.00;0.08;0.08;0.08
+Novorizontino;Fábio Matheus;brBRA;Meio-campista, Defensor;21;29;25;2,167;24.1;0;1;1;0;0;0;8;2;0.00;0.04;0.04;0.00;0.04
+Novorizontino;Luis Oyama;brBRA;Meio-campista;28;35;23;2,272;25.2;2;3;5;2;0;0;7;0;0.08;0.12;0.20;0.08;0.20
+Novorizontino;Jean;brBRA;Meio-campista;30;27;21;1,629;18.1;3;0;3;3;0;0;8;1;0.17;0.00;0.17;0.17;0.17
+Novorizontino;Mayk;brBRA;Defensor, Meio-campista;25;21;19;1,602;17.8;0;1;1;0;0;0;0;0;0.00;0.06;0.06;0.00;0.06
+Novorizontino;Bruno José;brBRA;Meio-campista, Atacante;26;32;17;1,400;15.6;1;2;3;1;0;0;3;0;0.06;0.13;0.19;0.06;0.19
+Novorizontino;Robson;brBRA;Atacante, Meio-campista;33;24;16;1,436;16.0;3;3;6;1;2;4;4;1;0.19;0.19;0.38;0.06;0.25
+Novorizontino;Waguinho;brBRA;Meio-campista, Atacante;35;22;15;1,359;15.1;4;1;5;4;0;0;4;2;0.26;0.07;0.33;0.26;0.33
+Novorizontino;Romulo;brBRA;Meio-campista;23;16;13;976;10.8;2;1;3;1;1;1;2;0;0.18;0.09;0.28;0.09;0.18
+Novorizontino;Nathan Fogaça;brBRA;Atacante;25;17;11;910;10.1;6;0;6;6;0;0;2;0;0.59;0.00;0.59;0.59;0.59
+Novorizontino;Pablo Dyego;brBRA;Meio-campista, Atacante;30;21;10;1,129;12.5;4;0;4;4;0;0;1;0;0.32;0.00;0.32;0.32;0.32
+Novorizontino;Rafael Donato;brBRA;Defensor;35;14;10;903;10.0;1;0;1;1;0;0;5;0;0.10;0.00;0.10;0.10;0.10
+Novorizontino;Marlon;brBRA;Meio-campista;34;18;10;871;9.7;1;2;3;1;0;0;4;0;0.10;0.21;0.31;0.10;0.31
+Novorizontino;Patrick;brBRA;Meio-campista, Defensor;27;14;9;845;9.4;0;0;0;0;0;0;4;1;0.00;0.00;0.00;0.00;0.00
+Novorizontino;Willian Farias;brBRA;Meio-campista;35;15;6;621;6.9;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Novorizontino;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Novorizontino;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Novorizontino;Igor Marques;brBRA;Defensor, Meio-campista;26;12;6;585;6.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Novorizontino;Tavinho;brBRA;Meio-campista;20;12;5;563;6.3;1;1;2;1;0;0;1;0;0.16;0.16;0.32;0.16;0.32
+Novorizontino;Airton;brBRA;Meio-campista, Atacante;25;16;5;562;6.2;1;1;2;1;0;0;0;0;0.16;0.16;0.32;0.16;0.32
+Novorizontino;Lucca;brBRA;Atacante;34;18;5;492;5.5;2;1;3;2;0;0;2;0;0.37;0.18;0.55;0.37;0.55
+Novorizontino;Jordi Almeida;brBRA;Goleiro;31;5;5;450;5.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Novorizontino;Caio Dantas;brBRA;Atacante;31;8;5;447;5.0;1;0;1;1;0;0;0;0;0.20;0.00;0.20;0.20;0.20
+Novorizontino;Léo Natel;brBRA;Atacante, Meio-campista;27;7;5;346;3.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Novorizontino;Léo Tocantins;brBRA;Meio-campista, Defensor;25;14;4;450;5.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Novorizontino;Raí Ramos;brBRA;Meio-campista, Defensor;30;6;3;297;3.3;0;1;1;0;0;0;1;0;0.00;0.30;0.30;0.00;0.30
+Novorizontino;Óscar Ruiz;pyPAR;Meio-campista;33;16;1;358;4.0;2;2;4;2;0;0;1;0;0.50;0.50;1.01;0.50;1.01
+Novorizontino;Renato Palma;brBRA;Defensor;33;3;1;53;0.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Novorizontino;Pedro Balotelli;brBRA;Atacante;20;1;0;24;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Novorizontino;Antony;brBRA;Meio-campista;19;0;0;;;;;;;;;;;;;;;
+Novorizontino;Gabriel Correia;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+Novorizontino;Marcelo;brBRA;Goleiro;24;0;0;;;;;;;;;;;;;;;
+Novorizontino;Victor Gabriel dos Santos;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Novorizontino;João Scapin;brBRA;Goleiro;20;0;0;;;;;;;;;;;;;;;
+Palmeiras;Joaquín Piquerez;uyURU;Defensor, Meio-campista;26;30;28;2,456;27.3;3;1;4;1;2;3;2;2;0.11;0.04;0.15;0.04;0.07
+Palmeiras;Wéverton;brBRA;Goleiro;37;26;26;2,340;26.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Gustavo Gómez;pyPAR;Defensor;31;27;26;2,310;25.7;2;1;3;2;0;0;7;0;0.08;0.04;0.12;0.08;0.12
+Palmeiras;Vitor Roque;brBRA;Atacante;19;33;24;2,117;23.5;16;3;19;15;1;1;4;0;0.68;0.13;0.81;0.64;0.77
+Palmeiras;Felipe Anderson;brBRA;Meio-campista;31;31;24;1,773;19.7;4;2;6;4;0;0;0;0;0.20;0.10;0.30;0.20;0.30
+Palmeiras;José Manuel López;arARG;Atacante, Meio-campista;24;33;22;1,999;22.2;12;2;14;10;2;2;5;0;0.54;0.09;0.63;0.45;0.54
+Palmeiras;Agustín Giay;arARG;Defensor, Meio-campista;21;29;21;1,978;22.0;0;0;0;0;0;0;1;1;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Facundo Torres;uyURU;Meio-campista, Atacante;24;29;20;1,665;18.5;6;3;9;6;0;0;3;0;0.32;0.16;0.49;0.32;0.49
+Palmeiras;Murilo Cerqueira;brBRA;Defensor;27;20;20;1,660;18.4;1;1;2;1;0;0;6;0;0.05;0.05;0.11;0.05;0.11
+Palmeiras;Aníbal Moreno;arARG;Meio-campista;25;28;19;1,805;20.1;0;1;1;0;0;0;9;0;0.00;0.05;0.05;0.00;0.05
+Palmeiras;Bruno Fuchs;brBRA;Defensor;25;27;18;1,723;19.1;2;1;3;2;0;0;5;0;0.10;0.05;0.16;0.10;0.16
+Palmeiras;Mauricio;pyPAR;Meio-campista, Atacante;23;29;18;1,598;17.8;3;7;10;3;0;0;1;0;0.17;0.39;0.56;0.17;0.56
+Palmeiras;Emiliano Martínez;uyURU;Meio-campista, Defensor;25;25;17;1,516;16.8;1;0;1;1;0;0;3;0;0.06;0.00;0.06;0.06;0.06
+Palmeiras;Micael;brBRA;Defensor;24;16;15;1,295;14.4;0;1;1;0;0;0;4;0;0.00;0.07;0.07;0.00;0.07
+Palmeiras;Raphael Veiga;brBRA;Meio-campista;29;25;13;1,067;11.9;2;4;6;1;1;1;3;0;0.17;0.34;0.51;0.08;0.42
+Palmeiras;Lucas Evangelista;brBRA;Meio-campista;29;19;12;1,046;11.6;2;1;3;2;0;0;2;0;0.17;0.09;0.26;0.17;0.26
+Palmeiras;Khellven;brBRA;Defensor, Meio-campista;23;13;12;975;10.8;0;2;2;0;0;0;1;0;0.00;0.18;0.18;0.00;0.18
+Palmeiras;Andreas Pereira;brBRA;Meio-campista;29;15;11;1,005;11.2;2;0;2;2;0;0;4;1;0.18;0.00;0.18;0.18;0.18
+Palmeiras;Richard Ríos;coCOL;Meio-campista;24;10;10;733;8.1;0;2;2;0;0;0;4;0;0.00;0.25;0.25;0.00;0.25
+Palmeiras;Estêvão Willian;brBRA;Meio-campista, Atacante;17;11;9;831;9.2;0;3;3;0;0;0;3;0;0.00;0.32;0.32;0.00;0.32
+Palmeiras;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Palmeiras;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Palmeiras;Carlos Miguel;brBRA;Goleiro;26;9;9;810;9.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Allan;brBRA;Meio-campista;20;28;8;921;10.2;2;3;5;2;0;0;0;1;0.20;0.29;0.49;0.20;0.49
+Palmeiras;Jefté;brBRA;Meio-campista, Defensor;21;12;7;765;8.5;0;3;3;0;0;0;0;0;0.00;0.35;0.35;0.00;0.35
+Palmeiras;Ramón Sosa;pyPAR;Meio-campista, Atacante;25;23;6;876;9.7;3;3;6;3;0;0;0;0;0.31;0.31;0.62;0.31;0.62
+Palmeiras;Luis Benedetti;brBRA;Defensor;18;5;4;377;4.2;1;0;1;1;0;0;0;0;0.24;0.00;0.24;0.24;0.24
+Palmeiras;Bruno Nascimento;brBRA;Atacante;27;10;4;341;3.8;2;0;2;2;0;0;0;0;0.53;0.00;0.53;0.53;0.53
+Palmeiras;Marcelo Lomba;brBRA;Goleiro;38;3;3;270;3.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Mayke;brBRA;Defensor, Meio-campista;32;3;3;211;2.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Vanderlan;brBRA;Defensor, Meio-campista;22;3;3;198;2.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Luighi;brBRA;Meio-campista, Atacante;18;11;2;339;3.8;1;0;1;1;0;0;1;0;0.27;0.00;0.27;0.27;0.27
+Palmeiras;Paulinho;brBRA;Meio-campista;24;7;1;224;2.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Marcos Rocha;brBRA;Defensor;36;1;1;90;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Thalys;brBRA;Atacante;19;2;1;88;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Larson;brBRA;Meio-campista;19;2;1;73;0.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Riquelme Fillipi;brBRA;Atacante;18;2;0;28;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Erick Belé;brBRA;Meio-campista;18;2;0;24;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Kaiky Naves;brBRA;Defensor;22;1;0;19;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Luis Pacheco;brBRA;Meio-campista;16;2;0;18;0.2;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Palmeiras;Aranha;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Palmeiras;Arthur;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Palmeiras;Rafael Coutinho;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Palmeiras;Kauan Cunha;brBRA;Goleiro;17;0;0;;;;;;;;;;;;;;;
+Palmeiras;Gilberto;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Palmeiras;Heittor Vinicius;brBRA;Atacante;17;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Cleiton Schwengber;brBRA;Goleiro;27;34;34;3,060;34.0;0;0;0;0;0;0;6;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Jhon Jhon;brBRA;Meio-campista;22;34;34;2,844;31.6;10;7;17;7;3;3;11;0;0.32;0.22;0.54;0.22;0.44
+RB Bragantino;Gabriel;brBRA;Meio-campista;32;33;32;2,634;29.3;1;0;1;1;0;0;11;0;0.03;0.00;0.03;0.03;0.03
+RB Bragantino;Pedro Henrique;brBRA;Defensor;29;31;31;2,654;29.5;1;1;2;1;0;0;6;0;0.03;0.03;0.07;0.03;0.07
+RB Bragantino;Lucas Barbosa;brBRA;Meio-campista;23;34;31;2,330;25.9;4;3;7;4;0;0;10;1;0.15;0.12;0.27;0.15;0.27
+RB Bragantino;Eduardo Sasha;brBRA;Atacante, Meio-campista;32;33;30;2,246;25.0;8;3;11;5;3;3;8;1;0.32;0.12;0.44;0.20;0.32
+RB Bragantino;Eric Ramires;brBRA;Meio-campista;24;31;24;1,786;19.8;2;1;3;2;0;0;3;0;0.10;0.05;0.15;0.10;0.15
+RB Bragantino;Guzmán Rodríguez;uyURU;Defensor;24;23;23;2,051;22.8;1;0;1;1;0;0;5;0;0.04;0.00;0.04;0.04;0.04
+RB Bragantino;Juninho Capixaba;brBRA;Defensor, Meio-campista;27;24;22;1,972;21.9;1;1;2;1;0;0;4;0;0.05;0.05;0.09;0.05;0.09
+RB Bragantino;José Hurtado;ecECU;Defensor;23;28;21;1,864;20.7;1;0;1;1;0;0;2;1;0.05;0.00;0.05;0.05;0.05
+RB Bragantino;Ignacio Laquintana;uyURU;Meio-campista;25;23;13;1,017;11.3;4;3;7;4;0;0;1;0;0.35;0.27;0.62;0.35;0.62
+RB Bragantino;Nathan Mendes;brBRA;Defensor;22;19;12;1,158;12.9;0;1;1;0;0;0;3;0;0.00;0.08;0.08;0.00;0.08
+RB Bragantino;Vanderlan;brBRA;Defensor;22;14;12;1,055;11.7;0;1;1;0;0;0;4;0;0.00;0.09;0.09;0.00;0.09
+RB Bragantino;Fabinho;brBRA;Meio-campista;22;28;11;1,275;14.2;0;1;1;0;0;0;3;0;0.00;0.07;0.07;0.00;0.07
+RB Bragantino;Vinicius Mendonça;brBRA;Meio-campista;20;23;11;1,039;11.5;0;3;3;0;0;0;2;0;0.00;0.26;0.26;0.00;0.26
+RB Bragantino;Isidro Pitta;pyPAR;Atacante;25;24;10;1,093;12.1;7;2;9;7;0;0;6;0;0.58;0.16;0.74;0.58;0.74
+RB Bragantino;Gustavo Marques;brBRA;Defensor;23;14;9;900;10.0;1;0;1;1;0;0;2;0;0.10;0.00;0.10;0.10;0.10
+RB Bragantino;Alix Vinicius;brBRA;Defensor;25;11;9;862;9.6;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Henry Mosquera;coCOL;Meio-campista;23;17;8;771;8.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Gustavinho;brBRA;Meio-campista;20;17;8;741;8.2;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+RB Bragantino;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+RB Bragantino;Guilherme Lopes;brBRA;Defensor;22;11;7;640;7.1;1;1;2;1;0;0;2;0;0.14;0.14;0.28;0.14;0.28
+RB Bragantino;Agustín Sant'Anna;uyURU;Defensor;27;11;6;523;5.8;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Matheus Fernandes;brBRA;Meio-campista;26;20;5;661;7.3;1;0;1;1;0;0;3;0;0.14;0.00;0.14;0.14;0.14
+RB Bragantino;Thiago Borbas;uyURU;Atacante;22;19;5;580;6.4;1;1;2;1;0;0;4;0;0.16;0.16;0.31;0.16;0.31
+RB Bragantino;Lucão;brBRA;Goleiro;23;4;4;360;4.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Bruno Praxedes;brBRA;Meio-campista;22;15;3;400;4.4;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Eduardo Santos;brBRA;Defensor;27;8;2;319;3.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Sergio Palacios;coCOL;Defensor;19;2;1;71;0.8;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Fernando;brBRA;Atacante;25;14;0;316;3.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+RB Bragantino;Davi Gomes;brBRA;Atacante;19;7;0;221;2.5;1;0;1;1;0;0;0;0;0.41;0.00;0.41;0.41;0.41
+RB Bragantino;Caue;brBRA;Defensor;18;2;0;41;0.5;0;1;1;0;0;0;0;0;0.00;2.20;2.20;0.00;2.20
+RB Bragantino;Athyrson;brBRA;Atacante;21;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Stanley Boateng;ghGHA;Defensor;19;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Chumbinho;brBRA;Meio-campista;21;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Fernando Costa;brBRA;Goleiro;20;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Fabrício;brBRA;Goleiro;24;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Yuri Leles;brBRA;Meio-campista;17;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Marcelinho;brBRA;Atacante;20;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Douglas Mendes;brBRA;Defensor;20;0;0;;;;;;;;;;;;;;;
+RB Bragantino;Kevyn Monteiro;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+RB Bragantino;João Neto;brBRA;Atacante;21;0;0;;;;;;;;;;;;;;;
+Santos;Gabriel Brazão;brBRA;Goleiro;24;38;38;3,397;37.7;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Santos;Álvaro Barreal;arARG;Meio-campista, Atacante;24;34;28;2,239;24.9;9;1;10;8;1;1;2;0;0.36;0.04;0.40;0.32;0.36
+Santos;Guilherme;brBRA;Meio-campista;29;32;27;2,250;25.0;4;7;11;4;0;0;1;0;0.16;0.28;0.44;0.16;0.44
+Santos;Benjamín Rollheiser;arARG;Meio-campista, Atacante;24;36;27;2,212;24.6;2;3;5;1;1;1;7;0;0.08;0.12;0.20;0.04;0.16
+Santos;João Schmidt;brBRA;Meio-campista;31;31;25;2,153;23.9;2;2;4;2;0;0;7;0;0.08;0.08;0.17;0.08;0.17
+Santos;Luan Peres Petroni;brBRA;Defensor;30;24;23;2,051;22.8;0;0;0;0;0;0;6;0;0.00;0.00;0.00;0.00;0.00
+Santos;Gonzalo Escobar;arARG;Defensor;27;30;23;2,008;22.3;0;0;0;0;0;0;8;1;0.00;0.00;0.00;0.00;0.00
+Santos;Zé Rafael;brBRA;Meio-campista;31;27;22;1,854;20.6;1;0;1;1;0;0;6;0;0.05;0.00;0.05;0.05;0.05
+Santos;Zé Ivaldo;brBRA;Defensor;27;21;20;1,799;20.0;1;0;1;1;0;0;8;1;0.05;0.00;0.05;0.05;0.05
+Santos;Souza;brBRA;Defensor;18;24;19;1,639;18.2;1;2;3;1;0;0;4;0;0.05;0.11;0.16;0.05;0.16
+Santos;Neymar;brBRA;Atacante, Meio-campista;32;20;17;1,528;17.0;8;1;9;6;2;2;8;1;0.47;0.06;0.53;0.35;0.41
+Santos;Igor Vinícius de Souza;brBRA;Defensor;27;20;15;1,302;14.5;0;2;2;0;0;0;4;0;0.00;0.14;0.14;0.00;0.14
+Santos;Tiquinho Soares;brBRA;Atacante;34;27;13;1,252;13.9;2;3;5;0;2;2;3;0;0.14;0.22;0.36;0.00;0.22
+Santos;Adonis Frías;arARG;Defensor;26;13;12;1,112;12.4;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Santos;Lautaro Díaz;arARG;Atacante;26;15;12;1,020;11.3;3;2;5;3;0;0;2;0;0.26;0.18;0.44;0.26;0.44
+Santos;Tomás Rincón;veVEN;Meio-campista;37;17;11;922;10.2;0;0;0;0;0;0;4;1;0.00;0.00;0.00;0.00;0.00
+Santos;Gabriel Bontempo;brBRA;Meio-campista;20;25;9;997;11.1;2;1;3;2;0;0;1;0;0.18;0.09;0.27;0.18;0.27
+Santos;Mayke;brBRA;Defensor;32;12;9;821;9.1;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Santos;Willian Arão;brBRA;Meio-campista;32;13;9;779;8.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Gil;brBRA;Defensor;37;8;8;720;8.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Santos;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Santos;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Santos;João Othavio Basso;brBRA;Defensor;28;6;6;518;5.8;1;0;1;1;0;0;2;0;0.17;0.00;0.17;0.17;0.17
+Santos;Victor Hugo;brBRA;Meio-campista;20;9;6;443;4.9;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Thaciano;brBRA;Meio-campista, Atacante;29;19;5;614;6.8;3;0;3;3;0;0;2;0;0.44;0.00;0.44;0.44;0.44
+Santos;Deivid Washington;brBRA;Atacante;19;17;5;557;6.2;1;0;1;1;0;0;0;0;0.16;0.00;0.16;0.16;0.16
+Santos;Luisão;brBRA;Defensor;21;6;5;438;4.9;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Santos;Leonardo Godoy;arARG;Defensor;29;6;5;416;4.6;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Santos;Alexis Duarte;pyPAR;Defensor;24;5;5;405;4.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Santos;Diego Pituca;brBRA;Meio-campista;32;10;4;392;4.4;1;0;1;1;0;0;2;0;0.23;0.00;0.23;0.23;0.23
+Santos;Yeferson Soteldo;veVEN;Meio-campista;27;5;3;326;3.6;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Santos;Robinho Junior;brBRA;Meio-campista, Atacante;17;15;2;352;3.9;0;1;1;0;0;0;0;0;0.00;0.26;0.26;0.00;0.26
+Santos;João Pedro Chermont;brBRA;Defensor;19;5;2;249;2.8;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Santos;Gustavo Caballero;pyPAR;Meio-campista;23;12;1;332;3.7;1;1;2;1;0;0;1;0;0.27;0.27;0.54;0.27;0.54
+Santos;Gabriel Veron;brBRA;Meio-campista;22;6;1;122;1.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Aderlan Silva;brBRA;Defensor;34;2;1;87;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Luca Meirelles;brBRA;Defensor;17;7;0;89;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Mateus Xavier;brBRA;Meio-campista;17;3;0;39;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Diogenes;brBRA;Goleiro;24;1;0;23;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Bilal Brahimi;dzALG;Atacante, Meio-campista;24;1;0;21;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Hyan;brBRA;Meio-campista;20;2;0;18;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;Kevyson;brBRA;Meio-campista;20;1;0;16;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Santos;João Paulo;brBRA;Goleiro;29;0;0;;0.0;0;0;0;0;0;0;2;0;;;;;
+Santos;João Alencar;brBRA;Defensor;17;0;0;;;;;;;;;;;;;;;
+Santos;João Ananias;brBRA;Defensor;17;0;0;;;;;;;;;;;;;;;
+Santos;Gustavo Henrique;brBRA;Meio-campista;19;0;0;;;;;;;;;;;;;;;
+Santos;Vinicius Lira;brBRA;Defensor;17;0;0;;;;;;;;;;;;;;;
+São Paulo;Rafael Pires;brBRA;Goleiro;35;35;35;3,150;35.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Alan Franco;arARG;Defensor;28;29;28;2,282;25.4;0;0;0;0;0;0;7;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;José Sabino;brBRA;Defensor;28;30;25;2,299;25.5;2;0;2;2;0;0;3;0;0.08;0.00;0.08;0.08;0.08
+São Paulo;Luciano;brBRA;Atacante, Meio-campista;31;32;24;2,105;23.4;9;4;13;8;1;2;10;0;0.38;0.17;0.56;0.34;0.51
+São Paulo;Marcos Antônio;brBRA;Meio-campista;24;28;23;1,896;21.1;0;4;4;0;0;0;4;0;0.00;0.19;0.19;0.00;0.19
+São Paulo;Damián Bobadilla;pyPAR;Meio-campista;23;31;22;2,100;23.3;4;2;6;4;0;0;6;0;0.17;0.09;0.26;0.17;0.26
+São Paulo;Robert Arboleda;ecECU;Defensor;33;24;22;2,057;22.9;3;0;3;3;0;0;4;0;0.13;0.00;0.13;0.13;0.13
+São Paulo;Cédric Soares;ptPOR;Meio-campista, Defensor;33;25;22;1,889;21.0;0;3;3;0;0;0;2;0;0.00;0.14;0.14;0.00;0.14
+São Paulo;Alisson;brBRA;Meio-campista;31;31;21;1,960;21.8;0;1;1;0;0;0;6;0;0.00;0.05;0.05;0.00;0.05
+São Paulo;Enzo Díaz;arARG;Meio-campista, Defensor;29;27;20;1,877;20.9;0;5;5;0;0;0;10;0;0.00;0.24;0.24;0.00;0.24
+São Paulo;Ferreira;brBRA;Meio-campista, Atacante;27;28;20;1,580;17.6;5;4;9;5;0;1;4;0;0.28;0.23;0.51;0.28;0.51
+São Paulo;Nahuel Ferraresi;veVEN;Defensor;26;24;19;1,797;20.0;0;3;3;0;0;0;3;0;0.00;0.15;0.15;0.00;0.15
+São Paulo;Pablo Maia;brBRA;Meio-campista;23;25;17;1,471;16.3;1;0;1;1;0;0;4;0;0.06;0.00;0.06;0.06;0.06
+São Paulo;André Silva;brBRA;Atacante;27;20;15;1,357;15.1;5;2;7;4;1;1;5;0;0.33;0.13;0.46;0.27;0.40
+São Paulo;Gonzalo Tapia;clCHI;Atacante;22;20;12;1,117;12.4;5;0;5;5;0;0;4;0;0.40;0.00;0.40;0.40;0.40
+São Paulo;Wendell;brBRA;Meio-campista, Defensor;31;16;11;838;9.3;0;1;1;0;0;0;0;0;0.00;0.11;0.11;0.00;0.11
+São Paulo;Luiz Gustavo;brBRA;Meio-campista, Defensor;37;12;9;780;8.7;1;0;1;1;0;0;0;0;0.12;0.00;0.12;0.12;0.12
+São Paulo;Lucas Ferreira;brBRA;Meio-campista;18;13;8;761;8.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Rodrigo;brBRA;Meio-campista;20;18;8;724;8.0;0;0;0;0;0;0;5;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Maik;brBRA;Meio-campista, Defensor;20;9;8;607;6.7;2;2;4;2;0;0;3;0;0.30;0.30;0.59;0.30;0.59
+São Paulo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+São Paulo;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+São Paulo;Rafael Tolói;itITA;Defensor;34;7;6;499;5.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Oscar;brBRA;Meio-campista, Atacante;33;6;5;345;3.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Lucas Moura;brBRA;Atacante, Meio-campista;32;11;4;451;5.0;2;0;2;1;1;1;0;0;0.40;0.00;0.40;0.20;0.20
+São Paulo;Matheus Alves;brBRA;Meio-campista;19;8;4;371;4.1;0;1;1;0;0;0;3;0;0.00;0.24;0.24;0.00;0.24
+São Paulo;Ruan;brBRA;Defensor;25;5;4;361;4.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Mailton dos Santos;brBRA;Meio-campista;26;8;3;388;4.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Patryck;brBRA;Meio-campista, Defensor;22;5;3;309;3.4;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Young;brBRA;Goleiro;22;3;3;270;3.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Juan Ignacio Dinenno;arARG;Atacante;30;7;3;262;2.9;1;0;1;1;0;0;2;0;0.34;0.00;0.34;0.34;0.34
+São Paulo;Lucca Marques;brBRA;Meio-campista;17;8;2;318;3.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Emiliano Rigoni;arARG;Atacante;31;10;2;294;3.3;1;0;1;1;0;0;1;1;0.31;0.00;0.31;0.31;0.31
+São Paulo;Felipe Negrucci;brBRA;Defensor;20;5;2;226;2.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Ryan Francisco;brBRA;Atacante;18;8;2;205;2.3;2;0;2;2;0;0;0;0;0.88;0.00;0.88;0.88;0.88
+São Paulo;Luan Silva;brBRA;Meio-campista;25;6;2;173;1.9;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Igor Vinícius de Souza;brBRA;Meio-campista, Defensor;27;3;2;164;1.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Jonathan Calleri;arARG;Atacante;31;3;2;121;1.3;0;0;0;0;0;1;0;1;0.00;0.00;0.00;0.00;0.00
+São Paulo;Nicolas;brBRA;Defensor;17;1;0;45;0.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Henrique;brBRA;Meio-campista;18;3;0;43;0.5;0;1;1;0;0;0;0;0;0.00;2.09;2.09;0.00;2.09
+São Paulo;Pedrinho;brBRA;Meio-campista;17;2;0;26;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Paulo Sérgio;brBRA;Atacante;19;3;0;26;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+São Paulo;Igor;brBRA;Defensor;17;0;0;;;;;;;;;;;;;;;
+São Paulo;Isac;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+São Paulo;Jandrei;brBRA;Goleiro;31;0;0;;;;;;;;;;;;;;;
+São Paulo;Leandro Mathias;brBRA;Goleiro;20;0;0;;;;;;;;;;;;;;;
+São Paulo;Felipe Preis;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Velo Clube;Marcelo Rangel;brBRA;Goleiro;36;37;37;3,245;36.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Pedro Rocha Neves;brBRA;Meio-campista, Atacante;30;32;31;2,662;29.6;15;8;23;13;2;4;6;1;0.51;0.27;0.78;0.44;0.71
+Velo Clube;Willian Klaus;brBRA;Defensor;31;27;27;2,344;26.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Caio Vinícius;brBRA;Meio-campista;26;28;27;2,261;25.1;5;2;7;5;0;0;7;0;0.20;0.08;0.28;0.20;0.28
+Velo Clube;Reynaldo Cesar Moraes;brBRA;Defensor;28;28;25;2,161;24.0;2;0;2;2;0;0;4;0;0.08;0.00;0.08;0.08;0.08
+Velo Clube;Savio;brBRA;Defensor;29;23;22;1,842;20.5;1;2;3;1;0;0;2;0;0.05;0.10;0.15;0.05;0.15
+Velo Clube;Marcelinho;brBRA;Defensor;26;25;22;1,742;19.4;2;2;4;2;0;0;8;0;0.10;0.10;0.21;0.10;0.21
+Velo Clube;Jáderson;brBRA;Meio-campista;24;26;18;1,514;16.8;1;0;1;1;0;0;1;0;0.06;0.00;0.06;0.06;0.06
+Velo Clube;Pedro Castro;brBRA;Meio-campista;31;28;18;1,501;16.7;1;2;3;1;0;0;3;0;0.06;0.12;0.18;0.06;0.18
+Velo Clube;Nicolás Ferreira;uyURU;Meio-campista, Atacante;22;16;14;1,088;12.1;2;3;5;2;0;0;0;1;0.17;0.25;0.41;0.17;0.41
+Velo Clube;Janderson;brBRA;Meio-campista, Atacante;25;27;13;1,240;13.8;0;4;4;0;0;0;2;0;0.00;0.29;0.29;0.00;0.29
+Velo Clube;Giovanni Pavani;brBRA;Meio-campista;28;24;13;1,180;13.1;2;1;3;2;0;0;8;0;0.15;0.08;0.23;0.15;0.23
+Velo Clube;Kayky Almeida;brBRA;Defensor;19;15;12;1,136;12.6;0;1;1;0;0;0;3;0;0.00;0.08;0.08;0.00;0.08
+Velo Clube;Nathan;brBRA;Defensor;23;11;11;922;10.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Luan Martins;brBRA;Meio-campista;25;14;11;916;10.2;1;0;1;1;0;0;7;0;0.10;0.00;0.10;0.10;0.10
+Velo Clube;Marrony;brBRA;Meio-campista, Atacante;25;17;11;840;9.3;2;0;2;1;1;1;3;0;0.21;0.00;0.21;0.11;0.11
+Velo Clube;Diego Hernández;uyURU;Meio-campista, Atacante;24;14;11;804;8.9;3;2;5;3;0;0;3;1;0.34;0.22;0.56;0.34;0.56
+Velo Clube;Alan Rodríguez;pyPAR;Defensor, Meio-campista;24;14;10;1,044;11.6;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Camutanga;brBRA;Defensor;31;14;10;962;10.7;0;0;0;0;0;0;6;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Adaílton;brBRA;Atacante, Meio-campista;34;16;9;778;8.6;1;1;2;1;0;0;0;0;0.12;0.12;0.23;0.12;0.23
+Velo Clube;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Velo Clube;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Velo Clube;Matheus Davó;brBRA;Atacante;25;12;8;760;8.4;2;0;2;2;0;0;1;0;0.24;0.00;0.24;0.24;0.24
+Velo Clube;Panagiotis Tachtsidis;grGRE;Meio-campista;33;9;8;561;6.2;1;1;2;1;0;0;0;0;0.16;0.16;0.32;0.16;0.32
+Velo Clube;João Pedro Sousa Silva;gwGNB;Atacante;28;13;7;816;9.1;4;1;5;4;0;1;1;0;0.44;0.11;0.55;0.44;0.55
+Velo Clube;Felipe Vizeu;brBRA;Atacante;27;13;7;681;7.6;1;0;1;1;0;0;2;0;0.13;0.00;0.13;0.13;0.13
+Velo Clube;Nathan Camargo;brBRA;Meio-campista;19;13;7;616;6.8;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Jorge;brBRA;Defensor;28;9;6;512;5.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Víctor Cantillo;coCOL;Meio-campista;31;8;6;444;4.9;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Pedro Costa;brBRA;Defensor;31;13;4;579;6.4;0;1;1;0;0;0;1;0;0.00;0.16;0.16;0.00;0.16
+Velo Clube;Iván Alvariño;arARG;Defensor;23;4;3;244;2.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Nathan;brBRA;Meio-campista;28;10;2;387;4.3;0;1;1;0;0;0;2;0;0.00;0.23;0.23;0.00;0.23
+Velo Clube;Eduardo Melo;brBRA;Atacante;23;6;2;182;2.0;1;0;1;1;0;0;1;0;0.49;0.00;0.49;0.49;0.49
+Velo Clube;Cristian González;uyURU;Defensor;28;3;2;172;1.9;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Régis;brBRA;Meio-campista;32;17;1;448;5.0;1;2;3;1;0;0;0;1;0.20;0.40;0.60;0.20;0.60
+Velo Clube;Kadu;brBRA;Defensor;19;7;1;212;2.4;0;1;1;0;0;0;1;0;0.00;0.42;0.42;0.00;0.42
+Velo Clube;Dodô;brBRA;Meio-campista;30;8;1;150;1.7;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Leonardo;brBRA;Goleiro;25;2;1;104;1.2;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Maxwell;brBRA;Meio-campista;29;5;0;114;1.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Freitas;brBRA;Meio-campista;21;4;0;105;1.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Ytalo;brBRA;Atacante, Meio-campista;37;4;0;84;0.9;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Daniel Cabral;brBRA;Meio-campista;22;4;0;72;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Velo Clube;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Velo Clube;Ygor Vinhas;brBRA;Goleiro;30;2;0;71;0.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Madison;brBRA;Meio-campista;26;2;0;32;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Rafael Castro;brBRA;Defensor;29;2;0;29;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Darilson;brBRA;Meio-campista;25;2;0;16;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Gabryel Martins;brBRA;Atacante;23;1;0;15;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Velo Clube;Kawan;brBRA;Defensor;21;0;0;;0.0;0;0;0;0;0;0;1;0;;;;;
+Velo Clube;Yago Ferreira;brBRA;Atacante;23;0;0;;;;;;;;;;;;;;;
+Velo Clube;Tom Fielding;;N/I;;0;0;;;;;;;;;;;;;;;
+Velo Clube;Guty;brBRA;Meio-campista;21;0;0;;;;;;;;;;;;;;;
+Velo Clube;João Victor;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Bruno Zapelli;arARG;Meio-campista;22;35;31;2,602;28.9;4;6;10;3;1;1;5;0;0.14;0.21;0.35;0.10;0.31
+Athletico Paranaense;Felipinho;brBRA;Meio-campista;23;31;26;2,122;23.6;0;1;1;0;0;0;8;0;0.00;0.04;0.04;0.00;0.04
+Athletico Paranaense;Léo Pelé;brBRA;Defensor;28;27;23;2,156;24.0;1;0;1;1;0;0;2;1;0.04;0.00;0.04;0.04;0.04
+Athletico Paranaense;Patrick;brBRA;Meio-campista;32;31;23;1,886;21.0;0;2;2;0;0;0;4;0;0.00;0.10;0.10;0.00;0.10
+Athletico Paranaense;Luiz Fernando;brBRA;Meio-campista, Atacante;28;33;23;1,847;20.5;3;6;9;3;0;0;4;0;0.15;0.29;0.44;0.15;0.44
+Athletico Paranaense;Santos;brBRA;Goleiro;34;21;21;1,890;21.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Lucas Esquivel;arARG;Defensor, Meio-campista;23;23;21;1,850;20.6;0;5;5;0;0;0;4;1;0.00;0.24;0.24;0.00;0.24
+Athletico Paranaense;Kevin Viveros;coCOL;Atacante;24;21;18;1,658;18.4;9;2;11;6;3;3;7;0;0.49;0.11;0.60;0.33;0.43
+Athletico Paranaense;Gastón Benavídez;arARG;Defensor, Meio-campista;29;19;17;1,536;17.1;1;1;2;1;0;0;3;0;0.06;0.06;0.12;0.06;0.12
+Athletico Paranaense;Mycael;brBRA;Goleiro;20;17;17;1,530;17.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Stiven Mendoza;coCOL;Meio-campista, Atacante;32;21;17;1,458;16.2;2;3;5;1;1;2;4;1;0.12;0.19;0.31;0.06;0.25
+Athletico Paranaense;Arthur Dias;brBRA;Defensor;17;17;16;1,376;15.3;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Habraão;brBRA;Defensor;23;14;14;1,097;12.2;0;0;0;0;0;0;2;1;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Alan Kardec;brBRA;Atacante;36;26;14;1,081;12.0;5;0;5;5;0;1;3;0;0.42;0.00;0.42;0.42;0.42
+Athletico Paranaense;Juan Felipe Aguirre;coCOL;Defensor;28;16;13;1,156;12.8;0;1;1;0;0;0;2;0;0.00;0.08;0.08;0.00;0.08
+Athletico Paranaense;Kauã Moraes;brBRA;Defensor, Meio-campista;18;14;13;1,114;12.4;1;1;2;1;0;0;1;0;0.08;0.08;0.16;0.08;0.16
+Athletico Paranaense;Lucas Belezi;brBRA;Defensor;21;15;11;988;11.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Leonardo Derik;brBRA;Meio-campista, Defensor;19;15;11;964;10.7;1;0;1;1;0;0;1;0;0.09;0.00;0.09;0.09;0.09
+Athletico Paranaense;Raul;brBRA;Meio-campista, Defensor;28;15;9;880;9.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Carlos Terán;coCOL;Defensor;24;10;9;761;8.5;0;0;0;0;0;0;1;2;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Athletico Paranaense;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Athletico Paranaense;Dudu;brBRA;Meio-campista, Atacante;19;19;7;832;9.2;3;0;3;3;0;0;0;0;0.32;0.00;0.32;0.32;0.32
+Athletico Paranaense;Leozinho;brBRA;Atacante, Meio-campista;26;20;7;819;9.1;2;2;4;2;0;0;2;0;0.22;0.22;0.44;0.22;0.44
+Athletico Paranaense;Julimar;brBRA;Atacante, Meio-campista;24;13;7;732;8.1;4;2;6;3;1;1;0;0;0.49;0.25;0.74;0.37;0.61
+Athletico Paranaense;Giuliano de Paula;brBRA;Meio-campista, Atacante;34;16;7;664;7.4;3;0;3;1;2;2;1;0;0.41;0.00;0.41;0.14;0.14
+Athletico Paranaense;Falcão;brBRA;Meio-campista;26;9;7;552;6.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Renan;brBRA;Atacante;24;22;6;682;7.6;8;0;8;8;0;0;2;0;1.06;0.00;1.06;1.06;1.06
+Athletico Paranaense;Fernando;brBRA;Defensor, Meio-campista;25;8;6;447;5.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Hayen Palacios;coCOL;Defensor;25;5;5;440;4.9;1;0;1;1;0;0;2;1;0.20;0.00;0.20;0.20;0.20
+Athletico Paranaense;João Cruz;brBRA;Meio-campista, Atacante;18;16;4;541;6.0;2;1;3;2;0;0;3;0;0.33;0.17;0.50;0.33;0.50
+Athletico Paranaense;Tevis Gabriel;brBRA;Meio-campista, Atacante;19;14;4;510;5.7;1;1;2;1;0;0;0;0;0.18;0.18;0.35;0.18;0.35
+Athletico Paranaense;Kevin Velasco;coCOL;Meio-campista, Atacante;27;13;3;399;4.4;1;0;1;1;0;0;3;0;0.23;0.00;0.23;0.23;0.23
+Athletico Paranaense;Isaac;brBRA;Meio-campista;20;10;3;324;3.6;0;0;0;0;0;0;1;1;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Tobias Figueiredo;ptPOR;Defensor;30;4;3;278;3.1;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Diogo Riquelme;brBRA;Meio-campista;19;4;2;180;2.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Mádson;brBRA;Defensor, Meio-campista;33;2;0;102;1.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletico Paranaense;Marcos André;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Carlos Eduardo;brBRA;Goleiro;18;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Fabrizio Peralta;pyPAR;Meio-campista;22;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Renan;brBRA;Atacante;22;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Elan Ricardo;coCOL;Meio-campista;20;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Kayke Santos;brBRA;Atacante;16;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Luis Eduardo Marques dos Santos;brBRA;Defensor;27;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Matheus Soares;brBRA;Goleiro;20;0;0;;;;;;;;;;;;;;;
+Athletico Paranaense;Victor Teodoro;brBRA;Atacante;17;0;0;;;;;;;;;;;;;;;
+Coritiba;Sebastián Gómez;coCOL;Meio-campista;28;34;34;2,832;31.5;3;1;4;3;0;0;9;1;0.10;0.03;0.13;0.10;0.13
+Coritiba;Josué Pesqueira;ptPOR;Meio-campista;34;34;33;2,694;29.9;6;4;10;3;3;3;10;0;0.20;0.13;0.33;0.10;0.23
+Coritiba;Pedro Morisco;brBRA;Goleiro;21;30;30;2,665;29.6;0;0;0;0;0;0;1;1;0.00;0.00;0.00;0.00;0.00
+Coritiba;Maicon;brBRA;Defensor;36;31;29;2,678;29.8;1;1;2;1;0;0;7;1;0.03;0.03;0.07;0.03;0.07
+Coritiba;Zeca;brBRA;Defensor;30;33;29;2,633;29.3;0;1;1;0;0;0;6;0;0.00;0.03;0.03;0.00;0.03
+Coritiba;Lucas Ronier;brBRA;Meio-campista;20;29;27;2,363;26.3;4;1;5;4;0;0;10;0;0.15;0.04;0.19;0.15;0.19
+Coritiba;Jacy;brBRA;Defensor;27;27;26;2,321;25.8;1;0;1;1;0;0;3;0;0.04;0.00;0.04;0.04;0.04
+Coritiba;Bruno Melo;brBRA;Defensor;32;28;25;2,111;23.5;2;1;3;2;0;0;9;1;0.09;0.04;0.13;0.09;0.13
+Coritiba;Machado;brBRA;Meio-campista;29;35;24;1,885;20.9;0;2;2;0;0;0;6;1;0.00;0.10;0.10;0.00;0.10
+Coritiba;Alex Silva;brBRA;Defensor;30;25;22;1,965;21.8;2;3;5;2;0;0;5;1;0.09;0.14;0.23;0.09;0.23
+Coritiba;Gustavo Coutinho;brBRA;Atacante;26;37;21;1,835;20.4;5;2;7;4;1;1;3;0;0.25;0.10;0.34;0.20;0.29
+Coritiba;Iury de Castilho;brBRA;Meio-campista, Atacante;29;27;20;1,474;16.4;4;3;7;4;0;0;4;0;0.24;0.18;0.43;0.24;0.43
+Coritiba;Wallisson Luiz;brBRA;Meio-campista;27;30;18;1,426;15.8;1;0;1;1;0;0;10;0;0.06;0.00;0.06;0.06;0.06
+Coritiba;Dellatorre;brBRA;Atacante;32;25;15;1,233;13.7;4;1;5;4;0;0;3;0;0.29;0.07;0.36;0.29;0.36
+Coritiba;Clayson;brBRA;Meio-campista;29;22;12;1,107;12.3;0;2;2;0;0;0;2;0;0.00;0.16;0.16;0.00;0.16
+Coritiba;Vini Paulista;brBRA;Meio-campista;23;25;10;1,033;11.5;1;0;1;1;0;0;1;0;0.09;0.00;0.09;0.09;0.09
+Coritiba;Guilherme Aquino;brBRA;Defensor;21;10;9;772;8.6;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Pedro Rangel;brBRA;Goleiro;24;9;8;749;8.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;João Almeida;brBRA;Defensor;19;13;7;686;7.6;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Nicolas Careca;brBRA;Meio-campista;27;15;6;530;5.9;1;1;2;1;0;0;3;0;0.17;0.17;0.34;0.17;0.34
+Coritiba;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Coritiba;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Coritiba;Tiago Coser;brBRA;Defensor;21;10;5;527;5.9;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Carlos de Pena;uyURU;Meio-campista;32;29;2;722;8.0;1;2;3;1;0;0;5;0;0.12;0.25;0.37;0.12;0.37
+Coritiba;Rodrigo Rodrigues;brBRA;Atacante;28;4;2;134;1.5;1;0;1;1;0;0;1;0;0.67;0.00;0.67;0.67;0.67
+Coritiba;Geovane;brBRA;Meio-campista;35;16;1;348;3.9;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Ruan Lucas;brBRA;Meio-campista;20;6;1;205;2.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Rodrigo Moledo;brBRA;Defensor;37;1;1;90;1.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Geovane Meurer;brBRA;Meio-campista;22;1;1;60;0.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Everaldo;brBRA;Meio-campista;30;11;0;177;2.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Júnior Brumado;brBRA;Atacante;25;6;0;138;1.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Felipe Guimarães;brBRA;Defensor;20;3;0;61;0.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Coritiba;Gabriel Leite;brBRA;Goleiro;37;0;0;;0.0;0;0;0;0;0;0;3;0;;;;;
+Coritiba;Benassi;brBRA;Goleiro;21;0;0;;;;;;;;;;;;;;;
+Coritiba;Matías Fracchia;clCHI;Defensor;29;0;0;;;;;;;;;;;;;;;
+Coritiba;Jean Gabriel;brBRA;Meio-campista;21;0;0;;;;;;;;;;;;;;;
+Coritiba;Caio Matheus;brBRA;Atacante;20;0;0;;;;;;;;;;;;;;;
+Coritiba;Lucas Taverna;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+Operario Ferroviario;Gabriel Boschilia;brBRA;Meio-campista, Atacante;28;34;34;2,927;32.5;9;6;15;5;4;4;8;0;0.28;0.18;0.46;0.15;0.34
+Operario Ferroviario;Elias Martello Curzel;brBRA;Goleiro;29;33;33;2,970;33.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Juan Pablo Zuluaga;coCOL;Meio-campista;31;32;28;2,267;25.2;2;1;3;2;0;0;8;0;0.08;0.04;0.12;0.08;0.12
+Operario Ferroviario;Neto Paraíba;brBRA;Meio-campista;32;31;28;2,150;23.9;2;1;3;2;0;0;8;0;0.08;0.04;0.13;0.08;0.13
+Operario Ferroviario;Rodrigo Antonio Rodrigues;brBRA;Meio-campista, Atacante;24;32;26;1,973;21.9;5;1;6;5;0;0;6;0;0.23;0.05;0.27;0.23;0.27
+Operario Ferroviario;Miranda;brBRA;Defensor;25;24;24;2,115;23.5;1;0;1;1;0;0;6;0;0.04;0.00;0.04;0.04;0.04
+Operario Ferroviario;Bruno Reis Índio;brBRA;Meio-campista;32;30;24;2,078;23.1;2;0;2;2;0;0;5;0;0.09;0.00;0.09;0.09;0.09
+Operario Ferroviario;Cristiano da Silva Leite;brBRA;Defensor;31;22;21;1,746;19.4;0;1;1;0;0;0;3;0;0.00;0.05;0.05;0.00;0.05
+Operario Ferroviario;Joseph;brBRA;Defensor;30;19;19;1,696;18.8;0;0;0;0;0;0;9;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Diogo Mateus;brBRA;Defensor;31;22;17;1,412;15.7;0;0;0;0;0;0;7;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Gabriel Feliciano;brBRA;Defensor;23;22;15;1,432;15.9;0;2;2;0;0;0;3;0;0.00;0.13;0.13;0.00;0.13
+Operario Ferroviario;Vinicius Mingotti;brBRA;Atacante, Meio-campista;25;27;14;1,247;13.9;1;1;2;1;0;1;0;0;0.07;0.07;0.14;0.07;0.14
+Operario Ferroviario;Daniel Amorim;brBRA;Atacante;35;23;13;1,038;11.5;7;1;8;6;1;1;2;0;0.61;0.09;0.69;0.52;0.61
+Operario Ferroviario;Jaime Giraldo;coCOL;Defensor;26;12;12;967;10.7;0;1;1;0;0;0;3;0;0.00;0.09;0.09;0.00;0.09
+Operario Ferroviario;Allano;brBRA;Meio-campista, Atacante;29;12;12;800;8.9;1;2;3;1;0;0;2;0;0.11;0.23;0.34;0.11;0.34
+Operario Ferroviario;Gabriel Souza;brBRA;Defensor;22;20;11;1,071;11.9;0;1;1;0;0;0;2;0;0.00;0.08;0.08;0.00;0.08
+Operario Ferroviario;Allan Godói;brBRA;Defensor;31;10;10;900;10.0;0;1;1;0;0;0;0;0;0.00;0.10;0.10;0.00;0.10
+Operario Ferroviario;Ademilson;brBRA;Atacante, Meio-campista;31;22;9;877;9.7;1;1;2;0;1;2;1;1;0.10;0.10;0.21;0.00;0.10
+Operario Ferroviario;Fransérgio;brBRA;Meio-campista;34;11;7;665;7.4;0;0;0;0;0;0;5;1;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Léo Gaúcho;brBRA;Atacante, Meio-campista;23;10;7;605;6.7;3;0;3;2;1;1;0;0;0.45;0.00;0.45;0.30;0.30
+Operario Ferroviario;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Operario Ferroviario;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Operario Ferroviario;Thales Oleques;brBRA;Defensor;30;10;7;605;6.7;0;1;1;0;0;0;1;0;0.00;0.15;0.15;0.00;0.15
+Operario Ferroviario;Marcos Paulo;brBRA;Meio-campista, Atacante;23;11;6;563;6.3;1;0;1;1;0;0;1;0;0.16;0.00;0.16;0.16;0.16
+Operario Ferroviario;Pedro Vilhena;brBRA;Meio-campista;22;11;4;594;6.6;0;1;1;0;0;0;4;1;0.00;0.15;0.15;0.00;0.15
+Operario Ferroviario;André;brBRA;Defensor;25;11;4;503;5.6;1;0;1;1;0;0;4;1;0.18;0.00;0.18;0.18;0.18
+Operario Ferroviario;Thiaguinho;brBRA;Meio-campista;27;14;4;411;4.6;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Vagner da Silva;brBRA;Goleiro;38;4;4;360;4.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Jacy;brBRA;Meio-campista;27;5;4;352;3.9;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Pedro Lucas;brBRA;Meio-campista;22;9;3;313;3.5;0;1;1;0;0;0;2;0;0.00;0.29;0.29;0.00;0.29
+Operario Ferroviario;Nilson;brBRA;Defensor;33;4;3;283;3.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Kleiton;brBRA;Meio-campista;25;15;2;511;5.7;0;1;1;0;0;0;1;0;0.00;0.18;0.18;0.00;0.18
+Operario Ferroviario;Jefferson;brBRA;Defensor;28;8;2;246;2.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Pernambuco;brBRA;Meio-campista;26;6;2;223;2.5;0;1;1;0;0;0;0;0;0.00;0.40;0.40;0.00;0.40
+Operario Ferroviario;Brenno Pereira;brBRA;Meio-campista;19;8;1;241;2.7;1;0;1;0;1;1;1;0;0.37;0.00;0.37;0.00;0.00
+Operario Ferroviario;Kauã;brBRA;Atacante;21;4;1;193;2.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Léo Silva;brBRA;Meio-campista;22;6;1;138;1.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Charles Almeida;brBRA;Defensor;29;2;1;109;1.2;0;0;0;0;0;0;0;1;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Ryan Santos;brBRA;Defensor;20;2;1;100;1.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Bernardo Rodrigues;brBRA;Defensor;19;1;1;90;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Talles;brBRA;Goleiro;27;1;1;90;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;João Rodrigues;brBRA;Defensor;18;1;1;75;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Operario Ferroviario;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Operario Ferroviario;Léo Cittadini;brBRA;Meio-campista;30;1;1;32;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Jhemerson;brBRA;Meio-campista;28;6;0;144;1.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Ronald;brBRA;Meio-campista;27;6;0;115;1.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Matheus Carvalho;brBRA;Atacante;24;4;0;87;1.0;1;0;1;1;0;0;0;0;1.03;0.00;1.03;1.03;1.03
+Operario Ferroviario;Matheus Galdino;brBRA;Atacante;19;1;0;45;0.5;0;1;1;0;0;0;0;0;0.00;2.00;2.00;0.00;2.00
+Operario Ferroviario;Thiago Medeiros;brBRA;Meio-campista;21;1;0;45;0.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Jean Lucas;brBRA;Meio-campista;29;2;0;39;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Dudu Mosconi;brBRA;Meio-campista;18;1;0;35;0.4;1;0;1;1;0;0;0;0;2.57;0.00;2.57;2.57;2.57
+Operario Ferroviario;Gabriel Cardozo;brBRA;Atacante;17;1;0;21;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Filipe Claudino;brBRA;Meio-campista;21;2;0;9;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Operario Ferroviario;Márcio Adriano;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Operario Ferroviario;Léo Borges;brBRA;Defensor;20;0;0;;;;;;;;;;;;;;;
+Operario Ferroviario;Guilherme;brBRA;Goleiro;20;0;0;;;;;;;;;;;;;;;
+Operario Ferroviario;Renan Gustavo;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Operario Ferroviario;Henrique;brBRA;Meio-campista;19;0;0;;;;;;;;;;;;;;;
+Operario Ferroviario;Zé Pagliarini;brBRA;Defensor;20;0;0;;;;;;;;;;;;;;;
+Operario Ferroviario;Lucas Wingert;brBRA;Goleiro;25;0;0;;;;;;;;;;;;;;;
+Internacional;Vitão;brBRA;Defensor;24;31;31;2,719;30.2;0;2;2;0;0;0;5;0;0.00;0.07;0.07;0.00;0.07
+Internacional;Alan Patrick;brBRA;Meio-campista, Atacante;33;30;30;2,506;27.8;11;7;18;5;6;7;6;0;0.40;0.25;0.65;0.18;0.43
+Internacional;Alexandro Bernabei;arARG;Defensor, Meio-campista;24;30;29;2,579;28.7;0;4;4;0;0;0;10;1;0.00;0.14;0.14;0.00;0.14
+Internacional;Braian Aguirre;arARG;Defensor, Meio-campista;24;30;28;2,389;26.5;1;0;1;1;0;0;4;0;0.04;0.00;0.04;0.04;0.04
+Internacional;Thiago Maia;brBRA;Meio-campista;27;31;25;1,980;22.0;2;1;3;2;0;0;3;0;0.09;0.05;0.14;0.09;0.14
+Internacional;Rafael Borré;coCOL;Atacante;29;30;20;1,809;20.1;5;2;7;4;1;1;3;1;0.25;0.10;0.35;0.20;0.30
+Internacional;Vitinho;brBRA;Meio-campista, Atacante;25;27;20;1,679;18.7;5;1;6;5;0;0;4;0;0.27;0.05;0.32;0.27;0.32
+Internacional;Bruno Henrique;brBRA;Meio-campista;35;29;19;1,397;15.5;2;0;2;2;0;0;3;1;0.13;0.00;0.13;0.13;0.13
+Internacional;Juninho;brBRA;Defensor;29;20;18;1,505;16.7;0;0;0;0;0;0;6;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Anthoni;brBRA;Goleiro;23;18;16;1,530;17.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Wesley;brBRA;Meio-campista, Atacante;25;18;16;1,233;13.7;0;3;3;0;0;0;2;0;0.00;0.22;0.22;0.00;0.22
+Internacional;Johan Carbonero;coCOL;Meio-campista, Atacante;25;23;15;1,457;16.2;5;2;7;4;1;1;6;1;0.31;0.12;0.43;0.25;0.37
+Internacional;Sergio Rochet;uyURU;Goleiro;31;15;15;1,305;14.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Gabriel Mercado;arARG;Defensor;37;14;13;1,195;13.3;1;0;1;1;0;0;4;0;0.08;0.00;0.08;0.08;0.08
+Internacional;Victor Gabriel;brBRA;Defensor;20;14;13;1,109;12.3;2;0;2;2;0;0;1;0;0.16;0.00;0.16;0.16;0.16
+Internacional;Bruno Tabata;brBRA;Meio-campista, Atacante;27;24;12;1,073;11.9;3;0;3;2;1;1;4;1;0.25;0.00;0.25;0.17;0.17
+Internacional;Bruno Gomes;brBRA;Meio-campista, Defensor;23;14;11;981;10.9;0;2;2;0;0;0;2;0;0.00;0.18;0.18;0.00;0.18
+Internacional;Alan Rodríguez;uyURU;Meio-campista;25;15;11;943;10.5;0;1;1;0;0;0;2;0;0.00;0.10;0.10;0.00;0.10
+Internacional;Clayton;brBRA;Defensor;24;11;8;762;8.5;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Ricardo Mathias;brBRA;Atacante;18;22;7;809;9.0;5;1;6;5;0;0;1;0;0.56;0.11;0.67;0.56;0.67
+Internacional;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Internacional;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Internacional;Luis Otávio;brBRA;Meio-campista;17;20;7;770;8.6;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Enner Valencia;ecECU;Atacante;35;14;7;628;7.0;1;0;1;1;0;0;3;0;0.14;0.00;0.14;0.14;0.14
+Internacional;Ivan;brBRA;Goleiro;27;7;7;585;6.5;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Ronaldo;brBRA;Meio-campista;28;15;6;774;8.6;0;0;0;0;0;0;4;1;0.00;0.00;0.00;0.00;0.00
+Internacional;Fernando;brBRA;Meio-campista, Defensor;37;6;6;412;4.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Alan Benítez;pyPAR;Defensor, Meio-campista;31;11;5;550;6.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Óscar Romero;pyPAR;Meio-campista;32;17;5;505;5.6;0;1;1;0;0;0;3;0;0.00;0.18;0.18;0.00;0.18
+Internacional;Agustín Rogel;uyURU;Defensor;27;5;5;450;5.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Ramon;brBRA;Defensor;23;5;4;329;3.7;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Gustavo Prado;brBRA;Meio-campista;19;18;3;559;6.2;1;0;1;1;0;0;2;0;0.16;0.00;0.16;0.16;0.16
+Internacional;Richard;brBRA;Meio-campista;30;7;3;275;3.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Diego Rosa;brBRA;Meio-campista;22;7;1;199;2.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Lucca Holanda Sampaio Tavares;brBRA;Atacante;21;4;1;161;1.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Nathan;brBRA;Defensor;23;1;1;90;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Raykkonen;brBRA;Atacante;16;7;0;124;1.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Yago;brBRA;Atacante;17;2;0;73;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Gabriel Carvalho;brBRA;Meio-campista;17;3;0;72;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Alisson Rodrigues;brBRA;Defensor;16;1;0;26;0.3;0;0;0;0;0;0;0;1;0.00;0.00;0.00;0.00;0.00
+Internacional;Pablo;brBRA;Defensor;18;1;0;20;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Internacional;Allex;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Internacional;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Internacional;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Internacional;Benjamin Arhin;ghGHA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Internacional;Diego Esser;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Internacional;Yan Henrique;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Internacional;Bernardo Jacob;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Internacional;Pedro Kauã;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+Internacional;Kauan;brBRA;Goleiro;21;0;0;;;;;;;;;;;;;;;
+Internacional;Kaique Rocha;brBRA;Defensor;23;0;0;;;;;;;;;;;;;;;
+Juventude;Jadson;brBRA;Meio-campista;31;35;32;2,831;31.5;0;2;2;0;0;0;9;0;0.00;0.06;0.06;0.00;0.06
+Juventude;Luis Mandaca;brBRA;Meio-campista, Atacante;23;32;29;2,445;27.2;2;1;3;2;0;0;7;1;0.07;0.04;0.11;0.07;0.11
+Juventude;Gabriel Taliari;brBRA;Atacante, Meio-campista;27;34;28;2,296;25.5;8;4;12;8;0;0;7;0;0.31;0.16;0.47;0.31;0.47
+Juventude;Caíque de Jesus Gonçalves;brBRA;Meio-campista;29;28;26;2,049;22.8;0;1;1;0;0;0;10;0;0.00;0.04;0.04;0.00;0.04
+Juventude;Marcelo Hermes;brBRA;Defensor, Meio-campista;29;22;20;1,858;20.6;2;5;7;2;0;0;3;0;0.10;0.24;0.34;0.10;0.34
+Juventude;Jandrei;brBRA;Goleiro;31;19;19;1,710;19.0;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Enmerson Batalla;coCOL;Meio-campista, Atacante;23;22;17;1,318;14.6;4;2;6;4;0;0;3;0;0.27;0.14;0.41;0.27;0.41
+Juventude;Rodrigo Sam;brBRA;Defensor;29;18;16;1,457;16.2;1;0;1;1;0;0;8;0;0.06;0.00;0.06;0.06;0.06
+Juventude;Wilker Ángel;veVEN;Defensor;31;18;16;1,423;15.8;1;0;1;1;0;0;5;0;0.06;0.00;0.06;0.06;0.06
+Juventude;Marcos Paulo;brBRA;Defensor;22;19;16;1,367;15.2;0;0;0;0;0;0;8;1;0.00;0.00;0.00;0.00;0.00
+Juventude;Igor Marques;brBRA;Meio-campista, Defensor;26;19;15;1,424;15.8;2;2;4;2;0;0;1;1;0.13;0.13;0.25;0.13;0.25
+Juventude;Gilberto;brBRA;Atacante;35;23;15;1,099;12.2;2;2;4;2;0;1;5;0;0.16;0.16;0.33;0.16;0.33
+Juventude;Alan Ruschel;brBRA;Defensor;35;21;14;1,230;13.7;0;0;0;0;0;0;6;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Reginaldo;brBRA;Defensor;31;18;14;1,170;13.0;0;2;2;0;0;0;1;0;0.00;0.15;0.15;0.00;0.15
+Juventude;Abner;brBRA;Defensor;20;19;13;1,318;14.6;0;1;1;0;0;0;3;0;0.00;0.07;0.07;0.00;0.07
+Juventude;Ewerton;brBRA;Defensor;24;18;12;1,155;12.8;1;0;1;1;0;0;2;0;0.08;0.00;0.08;0.08;0.08
+Juventude;Luan Freitas;brBRA;Defensor;24;14;12;1,124;12.5;0;1;1;0;0;0;0;0;0.00;0.08;0.08;0.00;0.08
+Juventude;Nenê;brBRA;Atacante, Meio-campista;43;25;12;1,009;11.2;3;4;7;1;2;2;3;0;0.27;0.36;0.62;0.09;0.45
+Juventude;Gustavo;brBRA;Goleiro;31;10;10;855;9.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Rafael Bilu;brBRA;Meio-campista, Atacante;25;15;10;688;7.6;1;0;1;1;0;0;1;0;0.13;0.00;0.13;0.13;0.13
+Juventude;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juventude;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Juventude;Ênio;brBRA;Meio-campista, Atacante;23;26;8;1,108;12.3;3;0;3;3;0;0;3;0;0.24;0.00;0.24;0.24;0.24
+Juventude;Peixoto;brBRA;Meio-campista, Defensor;27;13;8;733;8.1;1;0;1;1;0;0;1;0;0.12;0.00;0.12;0.12;0.12
+Juventude;Daniel Giraldo;coCOL;Meio-campista;32;15;7;681;7.6;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Gabriel Veron;brBRA;Atacante, Meio-campista;22;13;7;639;7.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Giovanny;brBRA;Atacante, Meio-campista;27;19;5;653;7.3;0;2;2;0;0;0;3;0;0.00;0.28;0.28;0.00;0.28
+Juventude;Marcão;brBRA;Goleiro;32;6;5;495;5.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Adriano Martins;brBRA;Defensor;27;5;5;360;4.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Lucas Fernandes;brBRA;Meio-campista;27;7;4;397;4.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Ruan Carneiro;brBRA;Goleiro;34;4;4;360;4.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;André Filipinho;brBRA;Defensor;28;5;3;303;3.4;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Hudson;brBRA;Meio-campista;24;4;3;233;2.6;0;0;0;0;0;0;2;1;0.00;0.00;0.00;0.00;0.00
+Juventude;Cipriano;brBRA;Defensor;22;3;3;189;2.1;0;0;0;0;0;0;1;1;0.00;0.00;0.00;0.00;0.00
+Juventude;Matheus Babi;brBRA;Atacante;27;20;2;478;5.3;2;0;2;2;0;0;4;0;0.38;0.00;0.38;0.38;0.38
+Juventude;Juan Sforza;arARG;Meio-campista;22;8;2;272;3.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Jean Carlos Vicente;brBRA;Meio-campista;32;7;2;203;2.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Nata;brBRA;Defensor;23;2;1;94;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Petterson;brBRA;Meio-campista;21;2;1;80;0.9;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Davi Goes;brBRA;Meio-campista;19;2;1;64;0.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Bernardo;brBRA;Defensor;19;1;1;45;0.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Edison Negueba;brBRA;Atacante;24;5;0;107;1.2;1;0;1;1;0;0;0;0;0.84;0.00;0.84;0.84;0.84
+Juventude;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juventude;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Juventude;Maurício Garcez;brBRA;Atacante, Meio-campista;27;3;0;61;0.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Pernambuco;brBRA;Meio-campista;26;3;0;57;0.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Emerson Galego;brBRA;Atacante;25;2;0;27;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;João Scatolin;brBRA;Meio-campista;16;1;0;25;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Marlon;brBRA;Atacante;20;1;0;8;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Juventude;Gastón Guruceaga;uyURU;Goleiro;29;0;0;;;;;;;;;;;;;;;
+Juventude;Zé Henrique;brBRA;Goleiro;20;0;0;;;;;;;;;;;;;;;
+Juventude;Kelvi;brBRA;Meio-campista;22;0;0;;;;;;;;;;;;;;;
+Juventude;Rafael Pinna;brBRA;Atacante;17;0;0;;;;;;;;;;;;;;;
+Juventude;Gabriel Souza;brBRA;Defensor;22;0;0;;;;;;;;;;;;;;;
+America-MG;Lucão;brBRA;Defensor;28;37;37;3,330;37.0;1;0;1;1;0;0;3;0;0.03;0.00;0.03;0.03;0.03
+America-MG;Willian;brBRA;Atacante;38;33;30;2,390;26.6;11;3;14;10;1;3;3;0;0.41;0.11;0.53;0.38;0.49
+America-MG;Ricardo Silva;brBRA;Defensor;32;29;29;2,558;28.4;1;1;2;1;0;0;3;0;0.04;0.04;0.07;0.04;0.07
+America-MG;Júlio César;brBRA;Defensor, Meio-campista;21;31;28;2,212;24.6;1;2;3;1;0;0;5;0;0.04;0.08;0.12;0.04;0.12
+America-MG;Paulinho;brBRA;Defensor, Meio-campista;20;22;20;1,803;20.0;0;1;1;0;0;0;1;0;0.00;0.05;0.05;0.00;0.05
+America-MG;Miguel Terceros;boBOL;Meio-campista, Atacante;20;25;20;1,796;20.0;7;5;12;6;1;1;4;0;0.35;0.25;0.60;0.30;0.55
+America-MG;Miqueias;brBRA;Meio-campista;23;28;20;1,601;17.8;1;2;3;1;0;0;7;0;0.06;0.11;0.17;0.06;0.17
+America-MG;Figueiredo;brBRA;Meio-campista, Atacante;23;21;19;1,664;18.5;4;3;7;2;2;2;1;0;0.22;0.16;0.38;0.11;0.27
+America-MG;Kauã Diniz Rocha;brBRA;Meio-campista;20;27;18;1,712;19.0;2;0;2;2;0;0;8;2;0.11;0.00;0.11;0.11;0.11
+America-MG;Matheus Mendes;brBRA;Goleiro;25;18;18;1,620;18.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Amaral;brBRA;Meio-campista;21;21;18;1,409;15.7;2;0;2;2;0;0;5;0;0.13;0.00;0.13;0.13;0.13
+America-MG;Marlon;brBRA;Defensor;30;18;17;1,509;16.8;1;0;1;1;0;0;3;0;0.06;0.00;0.06;0.06;0.06
+America-MG;Mariano;brBRA;Defensor, Meio-campista;38;21;16;1,448;16.1;0;1;1;0;0;0;5;0;0.00;0.06;0.06;0.00;0.06
+America-MG;Stênio Toledo;brBRA;Meio-campista, Atacante;21;29;16;1,342;14.9;1;2;3;1;0;0;5;0;0.07;0.13;0.20;0.07;0.20
+America-MG;Cauan Barros;brBRA;Meio-campista;20;17;15;1,394;15.5;3;0;3;3;0;0;6;0;0.19;0.00;0.19;0.19;0.19
+America-MG;Gustavo;brBRA;Goleiro;31;14;14;1,260;14.0;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Fernando Elizari;arARG;Meio-campista;33;24;12;1,105;12.3;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Yago Souza;brBRA;Meio-campista;18;18;11;934;10.4;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Arthur;brBRA;Atacante;21;19;9;863;9.6;2;0;2;2;0;0;1;0;0.21;0.00;0.21;0.21;0.21
+America-MG;Fabinho;brBRA;Atacante, Meio-campista;25;12;9;769;8.5;3;2;5;2;1;1;1;1;0.35;0.23;0.59;0.23;0.47
+America-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+America-MG;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+America-MG;Emerson Santos;brBRA;Defensor;29;12;6;573;6.4;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Maguinho;brBRA;Meio-campista, Defensor;32;6;4;396;4.4;1;0;1;1;0;0;1;0;0.23;0.00;0.23;0.23;0.23
+America-MG;Christian Ortiz;arARG;Atacante, Meio-campista;32;12;3;437;4.9;0;2;2;0;0;0;0;0;0.00;0.41;0.41;0.00;0.41
+America-MG;Thauan Willians;brBRA;Meio-campista, Atacante;20;7;3;371;4.1;0;1;1;0;0;0;1;0;0.00;0.24;0.24;0.00;0.24
+America-MG;Rafael Silva;brBRA;Atacante;32;10;3;342;3.8;0;2;2;0;0;0;2;0;0.00;0.53;0.53;0.00;0.53
+America-MG;Cássio;brBRA;Goleiro;22;3;3;270;3.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Dalberson;brBRA;Goleiro;28;3;3;270;3.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Facundo Labandeira;uyURU;Meio-campista;28;5;3;202;2.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Jhosefer;brBRA;Meio-campista;20;12;2;316;3.5;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Yago Andrade;brBRA;Meio-campista;21;13;2;241;2.7;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Samuel;brBRA;Defensor;21;5;2;236;2.6;0;1;1;0;0;0;0;0;0.00;0.38;0.38;0.00;0.38
+America-MG;Aloísio Souza Genézio;brBRA;Meio-campista;28;6;2;192;2.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Rafael Barcelos;brBRA;Defensor;21;5;1;229;2.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Héber;brBRA;Atacante;33;5;1;136;1.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;David José;brBRA;Meio-campista;22;6;1;108;1.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Guilherme Nogueira;brBRA;Meio-campista;18;1;1;70;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Dalbert Henrique;brBRA;Defensor;31;3;1;53;0.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Breno Teixeira;brBRA;Atacante;22;4;1;51;0.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;David;brBRA;Atacante, Meio-campista;25;6;0;105;1.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Martín Benítez;arARG;Atacante, Meio-campista;30;3;0;93;1.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+America-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+America-MG;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+America-MG;Renato Marques;brBRA;Atacante;21;4;0;52;0.6;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Guilherme Pato;brBRA;Atacante;23;2;0;43;0.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Gustavinho;brBRA;Meio-campista;23;2;0;35;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Pedro Barcelos;brBRA;Defensor;29;1;0;25;0.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Kauan;brBRA;Meio-campista;19;2;0;16;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Jhonnatan Silva;brBRA;Atacante;19;2;0;10;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+America-MG;Adyson;brBRA;Atacante;19;0;0;;;;;;;;;;;;;;;
+America-MG;Henrique Braga;brBRA;Meio-campista;19;0;0;;;;;;;;;;;;;;;
+America-MG;Gustavo Correa;brBRA;Atacante;18;0;0;;;;;;;;;;;;;;;
+America-MG;Jori;brBRA;Goleiro;28;0;0;;;;;;;;;;;;;;;
+America-MG;Thallyson;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+America-MG;Arthur Yan;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Athletic Club;Sidimar;brBRA;Defensor;32;35;34;3,058;34.0;2;0;2;2;0;0;6;0;0.06;0.00;0.06;0.06;0.06
+Athletic Club;Adriel;brBRA;Goleiro;24;30;30;2,634;29.3;0;0;0;0;0;0;3;1;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Sandry;brBRA;Meio-campista;22;30;29;2,453;27.3;0;3;3;0;0;0;7;0;0.00;0.11;0.11;0.00;0.11
+Athletic Club;Douglas Pelé;brBRA;Defensor, Meio-campista;25;32;27;2,420;26.9;2;4;6;1;1;1;7;0;0.07;0.15;0.22;0.04;0.19
+Athletic Club;David Braga;brBRA;Meio-campista;23;33;27;2,104;23.4;6;2;8;6;0;0;2;0;0.26;0.09;0.34;0.26;0.34
+Athletic Club;Welinton Torrão;brBRA;Meio-campista, Atacante;25;31;25;2,172;24.1;3;4;7;3;0;0;3;0;0.12;0.17;0.29;0.12;0.29
+Athletic Club;Rodrigo Gelado;brBRA;Defensor;21;27;23;2,155;23.9;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Marcelo Ajul;brBRA;Defensor;22;24;22;1,827;20.3;0;1;1;0;0;0;6;0;0.00;0.05;0.05;0.00;0.05
+Athletic Club;Max;brBRA;Meio-campista;22;27;22;1,745;19.4;2;0;2;2;0;0;2;0;0.10;0.00;0.10;0.10;0.10
+Athletic Club;Ronaldo Tavares;ptPOR;Atacante;27;25;21;1,845;20.5;9;5;14;7;2;2;1;0;0.44;0.24;0.68;0.34;0.59
+Athletic Club;Yuri;brBRA;Defensor, Meio-campista;29;25;20;1,576;17.5;1;5;6;1;0;0;6;0;0.06;0.29;0.34;0.06;0.34
+Athletic Club;Fabrício Isidoro;brBRA;Meio-campista;33;20;16;1,357;15.1;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Neto Costa;brBRA;Atacante;28;33;13;1,307;14.5;7;0;7;5;2;2;6;0;0.48;0.00;0.48;0.34;0.34
+Athletic Club;Amorim;brBRA;Meio-campista;19;14;13;1,042;11.6;1;2;3;1;0;0;3;0;0.09;0.17;0.26;0.09;0.26
+Athletic Club;Wesley Gasolina;brBRA;Defensor;24;21;12;1,105;12.3;0;0;0;0;0;0;8;1;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Fernando Martínez;pyPAR;Meio-campista;30;18;8;835;9.3;0;0;0;0;0;0;5;1;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Diego Fumaca;brBRA;Meio-campista;30;11;8;758;8.4;0;0;0;0;0;0;6;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Jefferson Luis;brBRA;Goleiro;30;8;7;695;7.7;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Alex;brBRA;Defensor;25;9;7;642;7.1;0;0;0;0;0;0;1;1;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Jhonatan Silva;brBRA;Defensor;25;10;6;601;6.7;2;0;2;2;0;0;6;0;0.30;0.00;0.30;0.30;0.30
+Athletic Club;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Athletic Club;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Athletic Club;Alessio da Cruz;cvCPV;Meio-campista;28;12;6;532;5.9;3;0;3;3;0;0;4;0;0.51;0.00;0.51;0.51;0.51
+Athletic Club;Edson Miranda;brBRA;Defensor;25;5;5;420;4.7;0;1;1;0;0;0;2;0;0.00;0.21;0.21;0.00;0.21
+Athletic Club;João Miguel;brBRA;Meio-campista;20;5;5;271;3.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Alason Carioca;brBRA;Meio-campista;26;18;4;543;6.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Ezequiel;brBRA;Meio-campista, Atacante;26;19;4;504;5.6;1;2;3;1;0;0;0;1;0.18;0.36;0.54;0.18;0.54
+Athletic Club;Francisco Geraldes;ptPOR;Meio-campista;29;10;4;456;5.1;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Gabriel Ferreira;brBRA;Defensor;27;6;4;386;4.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Lincoln;brBRA;Atacante;24;6;4;304;3.4;2;0;2;2;0;0;0;0;0.59;0.00;0.59;0.59;0.59
+Athletic Club;Guilherme Cachoeira;brBRA;Meio-campista, Atacante;22;10;3;335;3.7;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Kauan Lindes;brBRA;Meio-campista;21;8;2;281;3.1;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Luiz Filipe;brBRA;Meio-campista;23;5;2;255;2.8;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Gustavo Silva;brBRA;Atacante;20;5;2;200;2.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Matheus Mococa;brBRA;Meio-campista;24;8;1;189;2.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Gabriel Indio;brBRA;Defensor;19;6;1;134;1.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Glauco Passos;brBRA;Goleiro;29;1;1;90;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Andrey Ramos do Nascimento;brBRA;Meio-campista;26;5;0;77;0.9;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Caick;brBRA;Meio-campista;19;4;0;73;0.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Marllon;brBRA;Meio-campista;17;1;0;45;0.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Nathan;brBRA;Defensor;26;2;0;40;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Matheus Mega;brBRA;Meio-campista;25;1;0;22;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Athletic Club;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Athletic Club;Mateus Gonçalves Martins;brBRA;Meio-campista;30;1;0;21;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;Carlito;brBRA;Atacante;19;1;0;3;0.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Athletic Club;João Adriano;brBRA;Atacante;21;0;0;;;;;;;;;;;;;;;
+Athletic Club;Alberto Betão;brBRA;Defensor;25;0;0;;;;;;;;;;;;;;;
+Athletic Club;Rafael Conceição;brBRA;Meio-campista;20;0;0;;;;;;;;;;;;;;;
+Athletic Club;Dourado;brBRA;Defensor;20;0;0;;;;;;;;;;;;;;;
+Athletic Club;Eduardo Filipe;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Athletic Club;Eduardo Freire;brBRA;Goleiro;20;0;0;;;;;;;;;;;;;;;
+Athletic Club;Victor Gabriel;brBRA;Defensor;16;0;0;;;;;;;;;;;;;;;
+Athletic Club;Samuel Godinho;brBRA;Defensor;16;0;0;;;;;;;;;;;;;;;
+Athletic Club;Felipe Vieira;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Athletic Club;João Vitor;brBRA;Goleiro;21;0;0;;;;;;;;;;;;;;;
+Atlético Mineiro;Éverson;brBRA;Goleiro;34;36;36;3,240;36.0;0;0;0;0;0;0;8;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Júnior Alonso;pyPAR;Defensor;31;31;31;2,610;29.0;1;1;2;1;0;0;6;2;0.03;0.03;0.07;0.03;0.07
+Atlético Mineiro;Alan Franco;ecECU;Meio-campista;26;30;30;2,628;29.2;1;0;1;1;0;0;4;0;0.03;0.00;0.03;0.03;0.03
+Atlético Mineiro;Rony;brBRA;Atacante, Meio-campista;29;35;29;2,500;27.8;6;5;11;6;0;0;4;1;0.22;0.18;0.40;0.22;0.40
+Atlético Mineiro;Hulk;brBRA;Atacante, Meio-campista;38;33;27;2,438;27.1;8;6;14;7;1;1;9;0;0.30;0.22;0.52;0.26;0.48
+Atlético Mineiro;Gustavo Scarpa;brBRA;Meio-campista;31;36;25;2,302;25.6;1;3;4;1;0;0;3;0;0.04;0.12;0.16;0.04;0.16
+Atlético Mineiro;Natanael;brBRA;Defensor, Meio-campista;23;34;24;2,142;23.8;1;0;1;1;0;0;2;0;0.04;0.00;0.04;0.04;0.04
+Atlético Mineiro;Igor Gomes;brBRA;Meio-campista;25;34;21;1,824;20.3;4;3;7;4;0;0;3;1;0.20;0.15;0.35;0.20;0.35
+Atlético Mineiro;Guilherme Arana;brBRA;Defensor, Meio-campista;27;25;20;1,748;19.4;1;1;2;1;0;0;7;0;0.05;0.05;0.10;0.05;0.10
+Atlético Mineiro;Vitor Hugo;brBRA;Defensor;33;23;20;1,639;18.2;3;0;3;3;0;0;3;1;0.16;0.00;0.16;0.16;0.16
+Atlético Mineiro;Lyanco;brBRA;Defensor;27;17;17;1,410;15.7;0;0;0;0;0;0;10;2;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Fausto Vera;arARG;Meio-campista;24;18;15;1,127;12.5;1;0;1;1;0;0;3;0;0.08;0.00;0.08;0.08;0.08
+Atlético Mineiro;Tomás Cuello;arARG;Meio-campista, Atacante;24;16;14;1,203;13.4;1;1;2;1;0;0;3;1;0.07;0.07;0.15;0.07;0.15
+Atlético Mineiro;Dudu;brBRA;Meio-campista;33;18;14;1,048;11.6;3;2;5;3;0;0;1;0;0.26;0.17;0.43;0.26;0.43
+Atlético Mineiro;Bernard;brBRA;Meio-campista, Atacante;32;30;12;1,210;13.4;1;1;2;1;0;0;4;0;0.07;0.07;0.15;0.07;0.15
+Atlético Mineiro;Renzo Saravia;arARG;Defensor, Meio-campista;31;19;12;1,065;11.8;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Rubens;brBRA;Meio-campista, Defensor;23;13;11;1,033;11.5;1;0;1;1;0;0;2;0;0.09;0.00;0.09;0.09;0.09
+Atlético Mineiro;Caio Paulista;brBRA;Meio-campista, Defensor;26;20;10;885;9.8;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Gabriel Menino;brBRA;Meio-campista, Defensor;24;23;9;889;9.9;1;1;2;1;0;0;1;0;0.10;0.10;0.20;0.10;0.20
+Atlético Mineiro;Alexsander;brBRA;Meio-campista;21;14;8;828;9.2;1;0;1;1;0;0;3;0;0.11;0.00;0.11;0.11;0.11
+Atlético Mineiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Atlético Mineiro;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Atlético Mineiro;Iván Román;clCHI;Defensor;18;12;8;701;7.8;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Ruan;brBRA;Defensor;25;11;7;811;9.0;1;0;1;1;0;0;4;0;0.11;0.00;0.11;0.11;0.11
+Atlético Mineiro;Biel;brBRA;Meio-campista, Atacante;23;17;6;595;6.6;1;2;3;1;0;0;1;0;0.15;0.30;0.45;0.15;0.45
+Atlético Mineiro;Reinier;brBRA;Atacante, Meio-campista;23;13;3;333;3.7;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Patrick Silva;brBRA;Meio-campista;20;3;2;224;2.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Rômulo;brBRA;Defensor;21;3;2;209;2.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Igor Rabello;brBRA;Defensor;29;4;2;189;2.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Gabriel Delfim;brBRA;Goleiro;22;2;2;180;2.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Júnior Santos;brBRA;Atacante;30;16;1;361;4.0;2;0;2;2;0;0;1;0;0.50;0.00;0.50;0.50;0.50
+Atlético Mineiro;João Marcelo;brBRA;Atacante;19;7;0;68;0.8;1;1;2;1;0;0;0;0;1.32;1.32;2.65;1.32;2.65
+Atlético Mineiro;Brahian Palacios;coCOL;Meio-campista;22;1;0;8;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Cadu;brBRA;Atacante;20;1;0;7;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Isaac;brBRA;Atacante;20;1;0;6;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Mateus Iseppe;brBRA;Meio-campista;18;1;0;3;0.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Atlético Mineiro;Pedro Ataíde;brBRA;Atacante;19;0;0;;;;;;;;;;;;;;;
+Atlético Mineiro;João Gabriel Santos;brBRA;Atacante;15;0;0;;;;;;;;;;;;;;;
+Atlético Mineiro;Índio;brBRA;Meio-campista;16;0;0;;;;;;;;;;;;;;;
+Atlético Mineiro;Zé Phelipe;brBRA;Meio-campista;19;0;0;;;;;;;;;;;;;;;
+Atlético Mineiro;David Ramos;brBRA;Meio-campista;19;0;0;;;;;;;;;;;;;;;
+Atlético Mineiro;Robert;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Atlético Mineiro;Vitão;brBRA;Defensor;16;0;0;;;;;;;;;;;;;;;
+Atlético Mineiro;Wallysson;brBRA;Atacante;16;0;0;;;;;;;;;;;;;;;
+Cruzeiro;Cássio;brBRA;Goleiro;37;35;35;3,086;34.3;0;0;0;0;0;0;6;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Kaiki Bruno;brBRA;Defensor;21;34;34;2,993;33.3;1;5;6;1;0;0;10;0;0.03;0.15;0.18;0.03;0.18
+Cruzeiro;Fabrício Bruno;brBRA;Defensor;28;33;33;2,950;32.8;3;0;3;3;0;0;9;1;0.09;0.00;0.09;0.09;0.09
+Cruzeiro;Kaio Jorge;brBRA;Atacante;23;33;33;2,588;28.8;21;8;29;20;1;2;4;1;0.73;0.28;1.01;0.70;0.97
+Cruzeiro;Lucas Villalba;arARG;Defensor;30;32;32;2,864;31.8;1;0;1;1;0;0;10;0;0.03;0.00;0.03;0.03;0.03
+Cruzeiro;Lucas Romero;arARG;Meio-campista;30;33;32;2,832;31.5;1;3;4;1;0;0;12;0;0.03;0.10;0.13;0.03;0.13
+Cruzeiro;Matheus Pereira;brBRA;Meio-campista;28;34;32;2,793;31.0;7;7;14;7;0;0;7;0;0.23;0.23;0.45;0.23;0.45
+Cruzeiro;Lucas Silva;brBRA;Meio-campista;31;34;32;2,751;30.6;2;2;4;2;0;0;8;0;0.07;0.07;0.13;0.07;0.13
+Cruzeiro;Christian;brBRA;Meio-campista;24;30;29;2,357;26.2;5;2;7;5;0;0;9;0;0.19;0.08;0.27;0.19;0.27
+Cruzeiro;William;brBRA;Defensor;29;30;25;2,281;25.3;0;6;6;0;0;0;4;1;0.00;0.24;0.24;0.00;0.24
+Cruzeiro;Wanderson;brBRA;Meio-campista;30;27;25;1,792;19.9;0;2;2;0;0;0;2;0;0.00;0.10;0.10;0.00;0.10
+Cruzeiro;Jonathan;brBRA;Defensor;20;13;10;798;8.9;0;1;1;0;0;0;1;1;0.00;0.11;0.11;0.00;0.11
+Cruzeiro;Gabriel Barbosa;brBRA;Atacante, Meio-campista;28;30;9;1,083;12.0;6;2;8;5;1;2;7;0;0.50;0.17;0.66;0.42;0.58
+Cruzeiro;Carlos Eduardo;brBRA;Meio-campista;35;29;9;906;10.1;1;0;1;1;0;0;1;1;0.10;0.00;0.10;0.10;0.10
+Cruzeiro;Fagner;brBRA;Defensor;35;10;9;830;9.2;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Matheus Henrique;brBRA;Meio-campista;27;17;8;723;8.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Keny Arroyo;ecECU;Meio-campista;18;13;7;646;7.2;2;1;3;2;0;0;4;0;0.28;0.14;0.42;0.28;0.42
+Cruzeiro;Walace;brBRA;Meio-campista;29;17;4;384;4.3;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Kauã Prates;brBRA;Defensor;16;8;4;341;3.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Léo Aragão;brBRA;Goleiro;22;4;3;334;3.7;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Cruzeiro;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Cruzeiro;Marquinhos;brBRA;Meio-campista;21;17;2;384;4.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Luis Sinisterra;coCOL;Meio-campista;25;11;2;326;3.6;2;1;3;2;0;0;0;0;0.55;0.28;0.83;0.55;0.83
+Cruzeiro;João Marcelo;brBRA;Defensor;24;4;2;226;2.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Dudu;brBRA;Meio-campista, Atacante;33;5;2;215;2.4;1;0;1;1;0;0;0;0;0.42;0.00;0.42;0.42;0.42
+Cruzeiro;Kauã Moraes;brBRA;Defensor;18;5;2;197;2.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Mateo Gamarra;pyPAR;Defensor;24;2;1;154;1.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;João Wellington;brBRA;Meio-campista;21;5;1;139;1.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Rayan Passaglia Lelis;brBRA;Meio-campista;18;1;1;64;0.7;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Yannick Bolasie;cdCOD;Atacante, Meio-campista;35;18;0;177;2.0;0;1;1;0;0;0;1;0;0.00;0.51;0.51;0.00;0.51
+Cruzeiro;Lautaro Díaz;arARG;Atacante;26;6;0;85;0.9;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Ryan Guilherme;brBRA;Meio-campista;22;3;0;56;0.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Kenji;brBRA;Atacante;19;3;0;39;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Rodriguinho;brBRA;Meio-campista;21;1;0;15;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Juan Ignacio Dinenno;arARG;Atacante;30;1;0;12;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Murilo Rhikman;brBRA;Meio-campista;18;2;0;8;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Marlon;brBRA;Defensor;27;1;0;6;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;José;brBRA;Meio-campista;19;1;0;1;0.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Cruzeiro;Bruno Alves;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Cruzeiro;Cauan Baptistella;itITA;Meio-campista;17;0;0;;;;;;;;;;;;;;;
+Cruzeiro;Fernando;brBRA;Atacante;19;0;0;;;;;;;;;;;;;;;
+Cruzeiro;Rhuan Gabriel;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Cruzeiro;Vitor Lamounier;brBRA;Goleiro;17;0;0;;;;;;;;;;;;;;;
+Cruzeiro;Marcelo;brBRA;Goleiro;18;0;0;;;;;;;;;;;;;;;
+Cruzeiro;Otávio;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Villa Nova;Elias;brBRA;Defensor;25;34;34;2,968;33.0;1;0;1;1;0;0;11;1;0.03;0.00;0.03;0.03;0.03
+Villa Nova;Halls;brBRA;Goleiro;25;33;33;2,970;33.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;João Vieira;brBRA;Meio-campista;27;36;33;2,918;32.4;6;1;7;3;3;3;6;0;0.19;0.03;0.22;0.09;0.12
+Villa Nova;Tiago Pagnussat;brBRA;Defensor;34;33;33;2,680;29.8;1;0;1;1;0;0;12;1;0.03;0.00;0.03;0.03;0.03
+Villa Nova;Willian Formiga;brBRA;Defensor;30;29;29;2,465;27.4;0;0;0;0;0;0;11;1;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Igor Henrique;brBRA;Meio-campista;33;26;23;1,702;18.9;3;0;3;3;0;0;6;1;0.16;0.00;0.16;0.16;0.16
+Villa Nova;Gabriel Poveda;brBRA;Atacante;26;32;22;1,819;20.2;5;3;8;5;0;0;2;0;0.25;0.15;0.40;0.25;0.40
+Villa Nova;Dodô;brBRA;Meio-campista;23;33;19;1,870;20.8;3;4;7;1;2;2;2;0;0.14;0.19;0.34;0.05;0.24
+Villa Nova;Weverton;brBRA;Defensor;21;19;17;1,577;17.5;1;1;2;1;0;0;6;2;0.06;0.06;0.11;0.06;0.11
+Villa Nova;Todinho Júnior;brBRA;Meio-campista, Atacante;31;25;17;1,426;15.8;5;1;6;5;0;0;4;0;0.32;0.06;0.38;0.32;0.38
+Villa Nova;Guilherme Parede;brBRA;Meio-campista, Atacante;29;21;17;1,398;15.5;0;4;4;0;0;0;5;0;0.00;0.26;0.26;0.00;0.26
+Villa Nova;André Luis;brBRA;Atacante, Meio-campista;27;22;13;1,100;12.2;1;1;2;1;0;0;3;0;0.08;0.08;0.16;0.08;0.16
+Villa Nova;Bernardo Schappo;brBRA;Defensor;25;12;12;1,067;11.9;1;0;1;1;0;0;2;1;0.08;0.00;0.08;0.08;0.08
+Villa Nova;Jean Mota;brBRA;Meio-campista;31;22;12;1,048;11.6;1;1;2;0;1;1;0;0;0.09;0.09;0.17;0.00;0.09
+Villa Nova;Walisson Maia;brBRA;Defensor;33;16;10;1,029;11.4;0;1;1;0;0;0;3;1;0.00;0.09;0.09;0.00;0.09
+Villa Nova;Pedro Romano;brBRA;Defensor;24;12;10;883;9.8;1;0;1;1;0;0;2;0;0.10;0.00;0.10;0.10;0.10
+Villa Nova;Vinícius Paiva;brBRA;Meio-campista, Atacante;23;24;8;887;9.9;0;1;1;0;0;0;4;0;0.00;0.10;0.10;0.00;0.10
+Villa Nova;Bruno Xavier;brBRA;Meio-campista;28;17;8;799;8.9;2;0;2;2;0;0;0;0;0.23;0.00;0.23;0.23;0.23
+Villa Nova;Ralf;brBRA;Meio-campista;40;16;8;734;8.2;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Higor;brBRA;Defensor, Meio-campista;20;16;7;763;8.5;0;1;1;0;0;0;3;0;0.00;0.12;0.12;0.00;0.12
+Villa Nova;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Villa Nova;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Villa Nova;Arilson;brBRA;Meio-campista;31;13;7;637;7.1;1;0;1;1;0;0;2;0;0.14;0.00;0.14;0.14;0.14
+Villa Nova;Facundo Labandeira;uyURU;Meio-campista;28;7;6;395;4.4;2;0;2;2;0;0;2;0;0.46;0.00;0.46;0.46;0.46
+Villa Nova;Ruan Ribeiro;brBRA;Meio-campista, Atacante;21;18;5;615;6.8;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Gustavo Paje;brBRA;Meio-campista;19;17;4;446;5.0;4;2;6;4;0;0;5;1;0.81;0.40;1.21;0.81;1.21
+Villa Nova;Bruno Mendes;brBRA;Atacante;30;11;4;445;4.9;1;1;2;1;0;0;2;0;0.20;0.20;0.40;0.20;0.40
+Villa Nova;Diego Miticov;brBRA;Meio-campista;22;10;4;430;4.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Gabriel Silva;brBRA;Meio-campista;25;10;4;417;4.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Tom Fielding;;Defensor;;5;3;285;3.2;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Maurício Kozlinski;brBRA;Goleiro;33;3;3;270;3.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Diego Fabián Torres;arARG;Meio-campista, Atacante;34;6;3;242;2.7;0;0;0;0;0;0;0;1;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Victor Hugo;brBRA;Goleiro;24;2;2;180;2.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Enzo;brBRA;Meio-campista;21;4;2;173;1.9;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Emerson Urso;brBRA;Meio-campista;23;4;2;149;1.7;1;0;1;1;0;0;1;0;0.60;0.00;0.60;0.60;0.60
+Villa Nova;Igor Inocêncio;brBRA;Defensor;26;6;1;194;2.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Nathan Melo;brBRA;Meio-campista;23;5;1;132;1.5;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Luan Andrey;brBRA;Atacante;18;3;1;129;1.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Paulinho;brBRA;Meio-campista;26;3;1;119;1.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Breno;brBRA;Meio-campista;18;1;0;18;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;João Caixeta;brBRA;Meio-campista;17;1;0;18;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Lucas Soares;brBRA;Atacante;19;1;0;15;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Raimundo Ykaro;brBRA;Meio-campista;15;1;0;11;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Villa Nova;Marcondes;brBRA;Defensor;31;0;0;;;;;;;;;;;;;;;
+Villa Nova;Kauã Paes;brBRA;Goleiro;18;0;0;;;;;;;;;;;;;;;
+Villa Nova;Rodrigo;brBRA;Meio-campista;16;0;0;;;;;;;;;;;;;;;
+Villa Nova;Guilherme Vieira;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Botafogo;Vitinho;brBRA;Defensor;25;36;34;2,831;31.5;1;2;3;1;0;0;3;0;0.03;0.06;0.10;0.03;0.10
+Botafogo;Marlon Freitas;brBRA;Meio-campista;29;35;33;2,924;32.5;1;4;5;1;0;0;8;0;0.03;0.12;0.15;0.03;0.15
+Botafogo;Alexander Barboza;arARG;Defensor;29;24;24;2,147;23.9;0;0;0;0;0;0;14;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Jefferson Savarino;veVEN;Meio-campista;28;27;24;1,917;21.3;4;3;7;4;0;0;2;0;0.19;0.14;0.33;0.19;0.33
+Botafogo;Artur;brBRA;Meio-campista;26;28;22;1,917;21.3;5;4;9;5;0;0;3;0;0.23;0.19;0.42;0.23;0.42
+Botafogo;Alex Telles;brBRA;Defensor;32;27;22;1,690;18.8;5;4;9;1;4;4;3;0;0.27;0.21;0.48;0.05;0.27
+Botafogo;David Loiola;brBRA;Defensor;22;22;20;1,830;20.3;1;1;2;1;0;0;3;2;0.05;0.05;0.10;0.05;0.10
+Botafogo;John;brBRA;Goleiro;28;17;17;1,530;17.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Newton;brBRA;Meio-campista;24;25;16;1,494;16.6;1;0;1;1;0;0;5;0;0.06;0.00;0.06;0.06;0.06
+Botafogo;Leonardo Linck;brBRA;Goleiro;23;17;16;1,486;16.5;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Arthur Cabral;brBRA;Atacante;26;21;16;1,439;16.0;4;2;6;4;0;0;1;0;0.25;0.13;0.38;0.25;0.38
+Botafogo;Cuiabano;brBRA;Defensor, Meio-campista;21;30;15;1,534;17.0;5;2;7;5;0;0;4;0;0.29;0.12;0.41;0.29;0.41
+Botafogo;Santiago Rodríguez;uyURU;Meio-campista;25;26;14;1,328;14.8;2;5;7;2;0;0;6;0;0.14;0.34;0.47;0.14;0.47
+Botafogo;Fernando Marçal;brBRA;Defensor;35;15;11;1,009;11.2;5;0;5;5;0;0;5;0;0.45;0.00;0.45;0.45;0.45
+Botafogo;Jair Cunha;brBRA;Defensor;19;11;11;990;11.0;0;1;1;0;0;0;0;0;0.00;0.09;0.09;0.00;0.09
+Botafogo;Gregore;brBRA;Meio-campista;30;12;11;982;10.9;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Allan;brBRA;Meio-campista;34;21;11;965;10.7;0;0;0;0;0;0;8;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Kaio Pantaleão;brBRA;Defensor;29;11;11;933;10.4;0;0;0;0;0;0;2;1;0.00;0.00;0.00;0.00;0.00
+Botafogo;Álvaro Montoro;arARG;Meio-campista;17;16;10;936;10.4;3;3;6;3;0;0;3;0;0.29;0.29;0.58;0.29;0.58
+Botafogo;Joaquín Correa;arARG;Meio-campista, Atacante;30;18;10;898;10.0;2;0;2;2;0;0;2;0;0.20;0.00;0.20;0.20;0.20
+Botafogo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Botafogo;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Botafogo;Igor Jesus;brBRA;Atacante, Meio-campista;23;10;10;875;9.7;3;1;4;3;0;0;0;0;0.31;0.10;0.41;0.31;0.41
+Botafogo;Danilo Santos;brBRA;Meio-campista;23;13;10;827;9.2;1;3;4;1;0;0;2;0;0.11;0.33;0.44;0.11;0.44
+Botafogo;Jeffinho;brBRA;Meio-campista;25;17;9;685;7.6;2;4;6;2;0;0;0;1;0.26;0.53;0.79;0.26;0.79
+Botafogo;Chris Ramos;esESP;Atacante;28;13;8;718;8.0;4;0;4;4;0;0;1;1;0.50;0.00;0.50;0.50;0.50
+Botafogo;Matheus Martins;brBRA;Meio-campista;21;15;6;654;7.3;1;0;1;1;0;0;3;0;0.14;0.00;0.14;0.14;0.14
+Botafogo;Mateo Ponte;uyURU;Defensor;21;21;4;676;7.5;2;0;2;2;0;0;3;0;0.27;0.00;0.27;0.27;0.27
+Botafogo;Patrick de Paula;brBRA;Meio-campista;25;6;4;284;3.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Gonzalo Mastriani;uyURU;Atacante;31;12;3;288;3.2;1;0;1;1;0;0;1;0;0.31;0.00;0.31;0.31;0.31
+Botafogo;Gabriel Bahia;brBRA;Defensor;26;4;3;236;2.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Neto;brBRA;Goleiro;35;3;3;224;2.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Nathan Fernandes;brBRA;Meio-campista, Atacante;19;10;2;330;3.7;1;2;3;1;0;0;1;0;0.27;0.55;0.82;0.27;0.82
+Botafogo;Jordan Barrera;coCOL;Meio-campista;18;6;2;307;3.4;1;0;1;1;0;0;1;0;0.29;0.00;0.29;0.29;0.29
+Botafogo;Raul Steffens;brBRA;Goleiro;27;2;2;180;2.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Rwan;brBRA;Atacante;23;5;2;176;2.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Kadir Barría;paPAN;Atacante;17;6;2;174;1.9;2;0;2;2;0;0;1;0;1.03;0.00;1.03;1.03;1.03
+Botafogo;Danilo Barbosa;brBRA;Defensor, Meio-campista;28;3;0;39;0.4;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Kauan Lindes;brBRA;Meio-campista;21;1;0;31;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Elias Manoel;brBRA;Atacante;23;2;0;27;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Huguinho;brBRA;Defensor;17;1;0;24;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Kauan Toledo;brBRA;Atacante;18;2;0;7;0.1;0;1;1;0;0;0;1;0;0.00;12.86;12.86;0.00;12.86
+Botafogo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Botafogo;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Botafogo;Marquinhos;brBRA;Defensor;17;1;0;2;0.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Botafogo;Gabriel Abdias;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+Botafogo;Kauã Branco;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+Botafogo;Cléber;brBRA;Goleiro;17;0;0;;;;;;;;;;;;;;;
+Botafogo;Gabriel Justino;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Botafogo;Kauê;brBRA;Meio-campista;20;0;0;;;;;;;;;;;;;;;
+Botafogo;Kayke;brBRA;Atacante;18;0;0;;;;;;;;;;;;;;;
+Botafogo;Cristhian Loor;ecECU;Goleiro;18;0;0;;;;;;;;;;;;;;;
+Botafogo;Rhyan;brBRA;Goleiro;19;0;0;;;;;;;;;;;;;;;
+Botafogo;Serafim;brBRA;Defensor;20;0;0;;;;;;;;;;;;;;;
+Botafogo;Cauã Zappelini;brBRA;Meio-campista;17;0;0;;;;;;;;;;;;;;;
+Flamengo;Agustín Rossi;arARG;Goleiro;29;37;37;3,330;37.0;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Léo Pereira;brBRA;Defensor;29;34;33;2,953;32.8;4;0;4;4;0;0;6;0;0.12;0.00;0.12;0.12;0.12
+Flamengo;Giorgian De Arrascaeta;uyURU;Meio-campista;30;33;30;2,350;26.1;18;14;32;16;2;3;3;0;0.69;0.54;1.23;0.61;1.15
+Flamengo;Leo Ortiz;brBRA;Defensor;29;26;26;2,203;24.5;1;2;3;1;0;0;4;0;0.04;0.08;0.12;0.04;0.12
+Flamengo;Bruno Henrique;brBRA;Atacante, Meio-campista;34;32;20;1,811;20.1;8;0;8;7;1;1;7;0;0.40;0.00;0.40;0.35;0.35
+Flamengo;Alex Sandro;brBRA;Defensor;34;20;19;1,544;17.2;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Samuel Lino;brBRA;Meio-campista;25;21;19;1,394;15.5;4;5;9;4;0;0;1;0;0.26;0.32;0.58;0.26;0.58
+Flamengo;Luiz Araújo;brBRA;Meio-campista;28;35;15;1,765;19.6;7;3;10;7;0;0;2;0;0.36;0.15;0.51;0.36;0.51
+Flamengo;Jorginho;itITA;Meio-campista;33;18;15;1,357;15.1;3;1;4;0;3;3;5;0;0.20;0.07;0.27;0.00;0.07
+Flamengo;Erick Pulgar;clCHI;Meio-campista;31;17;15;1,240;13.8;1;0;1;1;0;0;6;0;0.07;0.00;0.07;0.07;0.07
+Flamengo;Danilo;brBRA;Defensor;33;20;14;1,410;15.7;1;1;2;1;0;0;2;1;0.06;0.06;0.13;0.06;0.13
+Flamengo;Gonzalo Plata;ecECU;Meio-campista, Atacante;24;28;14;1,350;15.0;4;1;5;4;0;0;0;1;0.27;0.07;0.33;0.27;0.33
+Flamengo;Guillermo Varela;uyURU;Defensor;31;20;14;1,325;14.7;0;4;4;0;0;0;1;0;0.00;0.27;0.27;0.00;0.27
+Flamengo;Emerson;brBRA;Defensor;26;15;14;1,247;13.9;1;1;2;1;0;0;1;0;0.07;0.07;0.14;0.07;0.14
+Flamengo;Ayrton Lucas;brBRA;Defensor;27;18;13;1,231;13.7;2;0;2;2;0;0;5;0;0.15;0.00;0.15;0.15;0.15
+Flamengo;Pedro;brBRA;Atacante;27;21;13;1,047;11.6;12;6;18;11;1;2;3;0;1.03;0.52;1.55;0.95;1.46
+Flamengo;Saúl Ñíguez;esESP;Meio-campista;30;16;12;1,156;12.8;0;2;2;0;0;0;3;0;0.00;0.16;0.16;0.00;0.16
+Flamengo;Nicolás De La Cruz;uyURU;Meio-campista;27;19;12;1,018;11.3;0;0;0;0;0;0;4;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Wesley;brBRA;Defensor;21;11;11;982;10.9;1;2;3;1;0;0;4;0;0.09;0.18;0.27;0.09;0.27
+Flamengo;Jorge Carrascal;coCOL;Meio-campista;26;16;11;821;9.1;2;5;7;2;0;0;4;0;0.22;0.55;0.77;0.22;0.77
+Flamengo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flamengo;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Flamengo;Evertton;brBRA;Meio-campista;21;18;10;981;10.9;1;0;1;1;0;0;2;1;0.09;0.00;0.09;0.09;0.09
+Flamengo;Everton Soares;brBRA;Meio-campista;28;23;9;874;9.7;1;3;4;1;0;0;0;0;0.10;0.31;0.41;0.10;0.41
+Flamengo;Gerson;brBRA;Meio-campista;27;9;9;711;7.9;0;2;2;0;0;0;0;1;0.00;0.25;0.25;0.00;0.25
+Flamengo;Allan;brBRA;Meio-campista;27;13;9;683;7.6;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Michael;brBRA;Meio-campista;28;15;6;621;6.9;1;3;4;1;0;0;0;0;0.14;0.43;0.58;0.14;0.58
+Flamengo;Wallace;brBRA;Atacante;19;17;4;443;4.9;1;2;3;1;0;0;5;1;0.20;0.41;0.61;0.20;0.61
+Flamengo;João Victor;brBRA;Defensor;18;4;3;194;2.2;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Juninho;brBRA;Atacante;28;15;2;378;4.2;1;0;1;1;0;0;0;0;0.24;0.00;0.24;0.24;0.24
+Flamengo;Matías Viña;uyURU;Defensor;27;8;2;281;3.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Dyogo Alves;brBRA;Goleiro;21;1;1;90;1.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Johnny Góes;brBRA;Defensor;17;1;1;90;1.0;0;1;1;0;0;0;0;0;0.00;1.00;1.00;0.00;1.00
+Flamengo;Iago;brBRA;Defensor;19;1;1;90;1.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Douglas Telles;brBRA;Meio-campista;17;2;1;84;0.9;2;0;2;2;0;0;0;0;2.14;0.00;2.14;2.14;2.14
+Flamengo;Lucio;brBRA;Meio-campista;17;1;1;68;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Daniel Sales;brBRA;Defensor;18;1;1;68;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Guilherme;brBRA;Meio-campista;18;1;1;62;0.7;2;0;2;2;0;0;0;0;2.90;0.00;2.90;2.90;2.90
+Flamengo;Cleiton;brBRA;Defensor;21;2;0;79;0.9;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Matheus Gonçalves;brBRA;Atacante;19;4;0;69;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Joshua;brBRA;Meio-campista;17;1;0;28;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Wanderson Junior;brBRA;Defensor;17;1;0;22;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flamengo;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Flamengo;Lucas Vieira;brBRA;Meio-campista;17;1;0;22;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;João Camargo;brBRA;Atacante;17;1;0;18;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;Victor Hugo;brBRA;Meio-campista;20;1;0;6;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Flamengo;João Alves;brBRA;Meio-campista;19;0;0;;;;;;;;;;;;;;;
+Flamengo;Matheus Cunha;brBRA;Goleiro;23;0;0;;;;;;;;;;;;;;;
+Flamengo;Pedro Fachinetti;brBRA;Defensor;17;0;0;;;;;;;;;;;;;;;
+Flamengo;Bruno Fernandes Xavier;brBRA;Meio-campista;17;0;0;;;;;;;;;;;;;;;
+Flamengo;Lorran;brBRA;Atacante;18;0;0;;;;;;;;;;;;;;;
+Flamengo;Leonardo Nannetti Lopes;brBRA;Goleiro;17;0;0;;;;;;;;;;;;;;;
+Flamengo;Ogundana Shola;ngNGA;Atacante;19;0;0;;;;;;;;;;;;;;;
+Flamengo;Yago Veloso;brBRA;Defensor;17;0;0;;;;;;;;;;;;;;;
+Flamengo;Gabriel Werneck;brBRA;Goleiro;15;0;0;;;;;;;;;;;;;;;
+Fluminense;Fábio;brBRA;Goleiro;44;38;38;3,420;38.0;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Juan Freytes;arARG;Defensor;25;33;33;2,924;32.5;0;0;0;0;0;0;8;1;0.00;0.00;0.00;0.00;0.00
+Fluminense;Martinelli;brBRA;Meio-campista;23;33;32;2,721;30.2;3;2;5;3;0;0;6;0;0.10;0.07;0.17;0.10;0.17
+Fluminense;Renê;brBRA;Defensor;32;28;27;2,362;26.2;2;0;2;2;0;0;3;0;0.08;0.00;0.08;0.08;0.08
+Fluminense;Agustín Canobbio;uyURU;Meio-campista;26;30;27;2,108;23.4;4;2;6;3;1;1;6;0;0.17;0.09;0.26;0.13;0.21
+Fluminense;Samuel Xavier;brBRA;Defensor;34;29;26;2,385;26.5;4;1;5;4;0;0;5;0;0.15;0.04;0.19;0.15;0.19
+Fluminense;Hércules;brBRA;Meio-campista;24;34;26;2,160;24.0;3;1;4;3;0;0;1;0;0.12;0.04;0.17;0.12;0.17
+Fluminense;Kevin Serna;coCOL;Meio-campista;27;33;25;2,086;23.2;7;5;12;7;0;0;3;0;0.30;0.22;0.52;0.30;0.52
+Fluminense;Thiago Silva;brBRA;Defensor;40;25;24;2,157;24.0;2;0;2;2;0;0;1;0;0.08;0.00;0.08;0.08;0.08
+Fluminense;Germán Cano;arARG;Atacante;36;22;18;1,498;16.6;6;0;6;5;1;1;1;0;0.36;0.00;0.36;0.30;0.30
+Fluminense;Everaldo Stum;brBRA;Atacante;33;28;15;1,352;15.0;2;0;2;2;0;1;2;0;0.13;0.00;0.13;0.13;0.13
+Fluminense;Luciano Acosta;arARG;Meio-campista;30;16;15;1,199;13.3;3;2;5;3;0;0;5;0;0.23;0.15;0.38;0.23;0.38
+Fluminense;Ignácio;brBRA;Defensor;28;19;13;1,147;12.7;0;0;0;0;0;0;2;1;0.00;0.00;0.00;0.00;0.00
+Fluminense;Lima;brBRA;Meio-campista;28;28;12;1,094;12.2;2;1;3;2;0;0;3;0;0.16;0.08;0.25;0.16;0.25
+Fluminense;Jhon Arias;coCOL;Meio-campista, Atacante;27;12;12;1,079;12.0;1;4;5;0;1;1;1;0;0.08;0.33;0.42;0.00;0.33
+Fluminense;Facundo Bernal;uyURU;Meio-campista;21;22;11;1,037;11.5;0;0;0;0;0;0;8;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Guga;brBRA;Defensor, Meio-campista;26;17;11;992;11.0;1;1;2;1;0;0;1;0;0.09;0.09;0.18;0.09;0.18
+Fluminense;Nonato;brBRA;Meio-campista;26;20;8;914;10.2;2;1;3;2;0;0;4;0;0.20;0.10;0.30;0.20;0.30
+Fluminense;Gabriel Fuentes;coCOL;Defensor;27;11;8;825;9.2;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Ganso;brBRA;Meio-campista;35;17;7;644;7.2;1;0;1;1;0;0;2;0;0.14;0.00;0.14;0.14;0.14
+Fluminense;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fluminense;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Fluminense;John Kennedy;brBRA;Atacante;22;17;6;626;7.0;2;1;3;1;1;1;1;0;0.29;0.14;0.43;0.14;0.29
+Fluminense;Keno;brBRA;Meio-campista;35;18;4;509;5.7;1;2;3;1;0;0;1;0;0.18;0.35;0.53;0.18;0.53
+Fluminense;Manoel;brBRA;Defensor;34;5;4;345;3.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Yeferson Soteldo;veVEN;Meio-campista;27;17;3;496;5.5;2;2;4;2;0;0;0;0;0.36;0.36;0.73;0.36;0.73
+Fluminense;Thiago dos Santos;brBRA;Meio-campista, Defensor;35;10;3;287;3.2;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Otávio;brBRA;Meio-campista;30;6;2;217;2.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Davi Schuindt;brBRA;Defensor;20;2;2;180;2.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Julio Cesar;brBRA;Defensor;18;3;2;176;2.0;0;1;1;0;0;0;0;0;0.00;0.51;0.51;0.00;0.51
+Fluminense;Santiago Moreno;coCOL;Meio-campista;24;5;2;154;1.7;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Igor Rabello;brBRA;Defensor;29;4;2;144;1.6;0;0;0;0;0;0;2;1;0.00;0.00;0.00;0.00;0.00
+Fluminense;Riquelme;brBRA;Meio-campista;17;6;0;99;1.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Joaquín Lavega;uyURU;Atacante;19;2;0;67;0.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Rubén Lezcano;pyPAR;Meio-campista;20;4;0;57;0.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Paulo Baya;brBRA;Meio-campista;25;4;0;38;0.4;1;1;2;1;0;0;0;0;2.37;2.37;4.74;2.37;4.74
+Fluminense;Isaque;brBRA;Meio-campista;17;1;0;22;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Renato Augusto;brBRA;Meio-campista;36;2;0;20;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Fluminense;Marcelo Pitaluga;brBRA;Goleiro;22;0;0;;0.0;0;0;0;0;0;0;1;0;;;;;
+Fluminense;Vitor Eudes;brBRA;Goleiro;26;0;0;;;;;;;;;;;;;;;
+Fluminense;Léo Jance;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Fluminense;João Loiola;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Fluminense;Vagno;brBRA;Meio-campista;17;0;0;;;;;;;;;;;;;;;
+Fluminense;Wallace;brBRA;Defensor;17;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;Léo Jardim;brBRA;Goleiro;29;36;36;3,235;35.9;0;0;0;0;0;0;2;1;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Nuno Gonçalo Moreira;ptPOR;Meio-campista, Atacante;25;36;35;2,549;28.3;7;5;12;7;0;0;4;0;0.25;0.18;0.42;0.25;0.42
+Vasco da Gama;Rayan;brBRA;Meio-campista, Atacante;18;34;32;2,835;31.5;14;1;15;12;2;2;4;0;0.44;0.03;0.48;0.38;0.41
+Vasco da Gama;Philippe Coutinho;brBRA;Meio-campista;32;30;30;2,403;26.7;5;3;8;5;0;0;3;1;0.19;0.11;0.30;0.19;0.30
+Vasco da Gama;Lucas Piton;brBRA;Defensor;24;30;29;2,545;28.3;1;7;8;1;0;0;5;0;0.04;0.25;0.28;0.04;0.28
+Vasco da Gama;Paulo Henrique;brBRA;Defensor;28;28;28;2,490;27.7;1;8;9;1;0;0;11;1;0.04;0.29;0.33;0.04;0.33
+Vasco da Gama;Hugo Moura;brBRA;Meio-campista, Defensor;27;33;28;2,411;26.8;0;1;1;0;0;0;6;2;0.00;0.04;0.04;0.00;0.04
+Vasco da Gama;Pablo Vegetti;arARG;Atacante;36;35;27;2,335;25.9;14;1;15;11;3;3;3;0;0.54;0.04;0.58;0.42;0.46
+Vasco da Gama;Tchê Tchê;brBRA;Meio-campista;32;29;24;2,000;22.2;1;0;1;1;0;0;3;0;0.05;0.00;0.05;0.05;0.05
+Vasco da Gama;Lucas Freitas;brBRA;Defensor;24;21;19;1,552;17.2;1;0;1;1;0;0;4;0;0.06;0.00;0.06;0.06;0.06
+Vasco da Gama;João Victor;brBRA;Defensor;26;16;16;1,435;15.9;1;0;1;1;0;0;3;0;0.06;0.00;0.06;0.06;0.06
+Vasco da Gama;Cauan Barros;brBRA;Meio-campista;20;17;16;1,340;14.9;1;0;1;1;0;0;5;0;0.07;0.00;0.07;0.07;0.07
+Vasco da Gama;José Luis Rodríguez Bebanz;uyURU;Defensor;27;25;15;1,446;16.1;2;2;4;2;0;0;0;0;0.12;0.12;0.25;0.12;0.25
+Vasco da Gama;Robert Renan;brBRA;Defensor;21;15;15;1,287;14.3;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Carlos Cuesta;coCOL;Defensor;25;13;12;1,092;12.1;1;0;1;1;0;0;3;0;0.08;0.00;0.08;0.08;0.08
+Vasco da Gama;Andrés Gómez;coCOL;Meio-campista;22;16;10;1,028;11.4;1;5;6;1;0;0;1;0;0.09;0.44;0.53;0.09;0.53
+Vasco da Gama;Jair;brBRA;Meio-campista;30;11;7;559;6.2;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;David;brBRA;Meio-campista, Atacante;29;24;5;750;8.3;2;3;5;2;0;0;3;1;0.24;0.36;0.60;0.24;0.60
+Vasco da Gama;Mateus Cocão;brBRA;Meio-campista;22;19;5;593;6.6;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Paulinho;brBRA;Meio-campista;28;11;4;310;3.4;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Vasco da Gama;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Vasco da Gama;Thiago Mendes;brBRA;Meio-campista;32;8;3;300;3.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Benjamín Garré;arARG;Meio-campista;24;10;3;293;3.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Luiz Gustavo;brBRA;Defensor;18;5;3;288;3.2;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Mauricio Lemos;uyURU;Defensor;29;4;3;243;2.7;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Matheus França;brBRA;Meio-campista, Atacante;20;15;2;386;4.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Victor Luis;brBRA;Meio-campista, Defensor;31;7;2;273;3.0;0;0;0;0;0;0;0;1;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Lucas Oliveira;brBRA;Defensor;28;8;2;259;2.9;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Loide Augusto;aoANG;Meio-campista;24;10;2;192;2.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Dimitri Payet;frFRA;Meio-campista;37;4;2;191;2.1;0;2;2;0;0;0;0;0;0.00;0.94;0.94;0.00;0.94
+Vasco da Gama;Daniel Fuzato;brBRA;Goleiro;27;3;2;182;2.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Juan Sforza;arARG;Meio-campista;22;2;1;71;0.8;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Adson;brBRA;Meio-campista;24;10;0;210;2.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Gabriel Souza;brBRA;Meio-campista;20;12;0;136;1.5;2;0;2;2;0;0;0;0;1.32;0.00;1.32;1.32;1.32
+Vasco da Gama;Alex Teixeira;brBRA;Atacante, Meio-campista;35;9;0;118;1.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Leandrinho;brBRA;Defensor;19;2;0;57;0.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Lukas Zuccarello;brBRA;Meio-campista;18;2;0;24;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Guilherme Estrella;brBRA;Meio-campista;19;1;0;19;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Leo Jacó;brBRA;Atacante;19;2;0;16;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Jean Meneses;clCHI;Atacante, Meio-campista;31;1;0;1;0.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Vasco da Gama;Allan;brBRA;Goleiro;21;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Vasco da Gama;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Vasco da Gama;Avellar;brBRA;Defensor;18;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;Euder;brBRA;Meio-campista;19;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;Phillipe Gabriel;brBRA;Goleiro;18;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;Diego Minete;brBRA;Atacante;16;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;Pablo;brBRA;Goleiro;21;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;Paulinho;brBRA;Defensor;19;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;Josef de Souza;brBRA;Meio-campista;35;0;0;;;;;;;;;;;;;;;
+Vasco da Gama;Breno Vereza;brBRA;Defensor;17;0;0;;;;;;;;;;;;;;;
+Volta Redonda;Sánchez Costa;brBRA;Defensor, Meio-campista;29;31;29;2,460;27.3;2;2;4;1;1;1;4;0;0.07;0.07;0.15;0.04;0.11
+Volta Redonda;Rai;brBRA;Meio-campista, Atacante;22;31;27;2,276;25.3;1;2;3;1;0;0;6;1;0.04;0.08;0.12;0.04;0.12
+Volta Redonda;Gabriel Pinheiro;brBRA;Defensor;27;25;24;2,019;22.4;2;0;2;2;0;0;6;0;0.09;0.00;0.09;0.09;0.09
+Volta Redonda;Jean Drosny;brBRA;Goleiro;31;22;22;1,980;22.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Jhonny;brBRA;Defensor, Meio-campista;22;28;22;1,932;21.5;0;2;2;0;0;0;1;0;0.00;0.09;0.09;0.00;0.09
+Volta Redonda;André Luiz;brBRA;Meio-campista;29;29;20;1,740;19.3;2;1;3;2;0;0;3;0;0.10;0.05;0.16;0.10;0.16
+Volta Redonda;Pierre;brBRA;Meio-campista;22;19;19;1,647;18.3;0;1;1;0;0;0;8;0;0.00;0.05;0.05;0.00;0.05
+Volta Redonda;MV;brBRA;Atacante, Meio-campista;26;22;19;1,640;18.2;3;1;4;3;0;0;4;0;0.16;0.05;0.22;0.16;0.22
+Volta Redonda;Vitinho;brBRA;Meio-campista, Atacante;23;23;19;1,397;15.5;1;1;2;1;0;0;3;0;0.06;0.06;0.13;0.06;0.13
+Volta Redonda;Gabriel Bahia;brBRA;Defensor;26;17;17;1,449;16.1;1;0;1;1;0;0;6;1;0.06;0.00;0.06;0.06;0.06
+Volta Redonda;Lucas Adell;brBRA;Defensor;24;17;15;1,298;14.4;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Italo;brBRA;Atacante;28;18;15;1,180;13.1;2;2;4;2;0;0;2;0;0.15;0.15;0.31;0.15;0.31
+Volta Redonda;Jefferson Paulino;brBRA;Goleiro;33;14;14;1,260;14.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Wellington Silva;brBRA;Defensor, Meio-campista;36;20;14;1,153;12.8;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Bruno Barra;brBRA;Defensor, Meio-campista;28;17;13;1,212;13.5;1;1;2;1;0;0;3;0;0.07;0.07;0.15;0.07;0.15
+Volta Redonda;Igor Morais;brBRA;Defensor;26;13;13;1,140;12.7;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Robinho;brBRA;Meio-campista;22;15;13;1,074;11.9;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Fabrício;brBRA;Defensor;34;13;12;957;10.6;0;0;0;0;0;0;3;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Ygor Catatau;brBRA;Atacante, Meio-campista;29;12;10;741;8.2;2;0;2;2;0;0;2;0;0.24;0.00;0.24;0.24;0.24
+Volta Redonda;Thallyson;brBRA;Meio-campista;28;10;9;654;7.3;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Volta Redonda;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Volta Redonda;João Pedro;brBRA;Meio-campista, Atacante;21;15;8;772;8.6;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Patrick;brBRA;Meio-campista;26;20;7;716;8.0;0;2;2;0;0;0;2;1;0.00;0.25;0.25;0.00;0.25
+Volta Redonda;Caio Roque;brBRA;Defensor;23;9;6;607;6.7;0;1;1;0;0;0;1;0;0.00;0.15;0.15;0.00;0.15
+Volta Redonda;Bruno Santos;brBRA;Atacante, Meio-campista;28;8;5;530;5.9;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Chayene Santos;brBRA;Meio-campista;34;12;4;523;5.8;0;1;1;0;0;0;2;0;0.00;0.17;0.17;0.00;0.17
+Volta Redonda;Lucas Tocantins;brBRA;Meio-campista, Atacante;30;10;4;397;4.4;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;MIRANDINHA;brBRA;Meio-campista;25;8;4;361;4.0;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Hyuri;brBRA;Atacante;33;7;4;327;3.6;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Matheus Lucas;brBRA;Atacante;26;23;3;714;7.9;4;0;4;4;0;0;4;0;0.50;0.00;0.50;0.50;0.50
+Volta Redonda;Marquinhos;brBRA;Meio-campista, Atacante;26;9;3;386;4.3;2;0;2;2;0;0;0;0;0.47;0.00;0.47;0.47;0.47
+Volta Redonda;Juninho;brBRA;Defensor, Meio-campista;25;9;3;353;3.9;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Kayke Rodrigues;brBRA;Atacante;36;12;3;318;3.5;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Heliardo;brBRA;Atacante;33;3;3;195;2.2;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Ynaiã;brBRA;Defensor;25;6;2;265;2.9;0;0;0;0;0;0;2;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Henrique Silva;brBRA;Meio-campista;30;7;2;213;2.4;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Lucas Ramires;brBRA;Defensor;22;3;2;210;2.3;1;0;1;1;0;0;3;1;0.43;0.00;0.43;0.43;0.43
+Volta Redonda;Dener;brBRA;Meio-campista;32;3;2;197;2.2;1;0;1;1;0;0;0;0;0.46;0.00;0.46;0.46;0.46
+Volta Redonda;Avelino;brBRA;Goleiro;26;2;2;180;2.0;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Daniel Cabral;brBRA;Meio-campista;22;6;1;249;2.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Léo Ceará;brBRA;Meio-campista;25;10;1;232;2.6;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Volta Redonda;Player;Nation;Pos;Age;MP;Starts;Min;90s;Gls;Ast;G+A;G-PK;PK;PKatt;CrdY;CrdR;Gls;Ast;G+A;G-PK;G+A-PK
+Volta Redonda;Luciano Naninho;brBRA;Meio-campista;32;5;1;129;1.4;0;1;1;0;0;0;0;0;0.00;0.70;0.70;0.00;0.70
+Volta Redonda;Lucas Chávez;boBOL;Atacante;21;4;1;120;1.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Adsson;brBRA;Meio-campista;24;3;1;72;0.8;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Igor Maduro;brBRA;Meio-campista;23;5;0;101;1.1;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Matheus Costa;brBRA;Meio-campista;25;3;0;37;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Caetano;brBRA;Meio-campista;19;2;0;35;0.4;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Lautaro Belleggia;arARG;Meio-campista;27;1;0;26;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;João Henrique;brBRA;Atacante;19;1;0;26;0.3;0;0;0;0;0;0;1;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Lyncon;brBRA;Defensor;19;2;0;26;0.3;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Eduardo Du;brBRA;Defensor;23;1;0;15;0.2;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Kauã Oliveira;brBRA;Meio-campista;19;2;0;10;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Kerlinho;brBRA;Meio-campista;18;2;0;6;0.1;0;0;0;0;0;0;0;0;0.00;0.00;0.00;0.00;0.00
+Volta Redonda;Luis Cáceres;pyPAR;Defensor;29;0;0;;;;;;;;;;;;;;;
+Volta Redonda;Lucas di Almeida;brBRA;Meio-campista;18;0;0;;;;;;;;;;;;;;;
+Volta Redonda;Yago Oliveira;brBRA;Goleiro;24;0;0;;;;;;;;;;;;;;;
