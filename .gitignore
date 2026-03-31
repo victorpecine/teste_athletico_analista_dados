@@ -209,3 +209,4 @@ __marimo__/
 downloaded_files/pyautogui.lock
 downloaded_files/driver_fixing.lock
 Anotacoes.txt
+*.html
